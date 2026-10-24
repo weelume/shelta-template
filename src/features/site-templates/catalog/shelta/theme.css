@@ -31,3 +31,6 @@
 @media(min-width:1200px){.sh-hero:before{content:'';position:absolute;inset:0;z-index:0;pointer-events:none;background:url('/templates/shelta/web-media/VNCvvZHX9fSoEpABpFD65uPKUw.webp') center/cover;clip-path:polygon(0 60%,17% 60%,17% 42%,50% 36%,82% 42%,82% 60%,100% 60%,100% 100%,0 100%)}.sh-hero-content>div:first-child{z-index:-1}.sh-hero-bottom{z-index:2}}
 
 .sh-hero-word{white-space:nowrap}
+
+/* 显式声明标题字重，避免宿主 reset 改变独立模板排版。 */
+.sh-site h1,.sh-site h2,.sh-site h3{font-weight:700}

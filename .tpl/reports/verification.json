@@ -3,9 +3,9 @@
   "format": "git-template-verification",
   "formatVersion": "0.2.0",
   "status": "passed",
-  "checkedAt": "2026-10-24T11:32:28.271Z",
+  "checkedAt": "2026-10-24T11:53:06.555Z",
   "sourceCommit": null,
-  "sourceDigest": "f0d53ea8ee91d2592142fc9fdabe1668456e1a22d77b571849837a8c1ee152fa",
+  "sourceDigest": "adc34072cd40aa1cd10e41156843568cb7a56524131d651bf4a50cefbf3af00b",
   "environment": {
     "platform": "linux (local WSL Ubuntu)",
     "arch": "x64",
@@ -25,8 +25,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-10-24T11:27:17.365Z",
-      "finishedAt": "2026-10-24T11:27:19.374Z"
+      "startedAt": "2026-10-24T11:49:23.458Z",
+      "finishedAt": "2026-10-24T11:49:24.641Z"
     },
     {
       "id": "lint",
@@ -38,8 +38,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-10-24T11:27:19.374Z",
-      "finishedAt": "2026-10-24T11:27:22.744Z"
+      "startedAt": "2026-10-24T11:49:24.641Z",
+      "finishedAt": "2026-10-24T11:49:27.154Z"
     },
     {
       "id": "test",
@@ -51,8 +51,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-10-24T11:27:22.744Z",
-      "finishedAt": "2026-10-24T11:27:23.180Z"
+      "startedAt": "2026-10-24T11:49:27.154Z",
+      "finishedAt": "2026-10-24T11:49:27.444Z"
     },
     {
       "id": "build",
@@ -64,8 +64,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-10-24T11:27:23.180Z",
-      "finishedAt": "2026-10-24T11:27:45.399Z"
+      "startedAt": "2026-10-24T11:49:27.444Z",
+      "finishedAt": "2026-10-24T11:49:47.175Z"
     }
   ],
   "services": [
@@ -73,8 +73,8 @@
       "id": "web",
       "status": "passed",
       "stopped": true,
-      "checkedAt": "2026-10-24T11:32:28.271Z",
-      "reason": "已验证 66 条生产页面路径、182 项原件和网页衍生素材、未知路由 404；PC/iPad/H5/320px 布局、菜单、双语、表单、FAQ、相册及视频播放/离屏暂停已检查。本次独立预览进程已停止。"
+      "checkedAt": "2026-10-24T11:53:06.555Z",
+      "reason": "已验证最终生产构建 66 条页面路径、182 项原件/网页素材与未知路由404；三端/320px及菜单、双语、表单、FAQ、相册、视频墙实际播放与离屏暂停已检查。独立预览进程已停止。"
     }
   ],
   "limitations": [
