@@ -1,0 +1,1 @@
+import type {SiteTemplatePageProps} from '../../../types';import {PropertyPage} from './PropertyPage';export default function Page(props:SiteTemplatePageProps){return <PropertyPage {...props} slug="silver-oak-estates"/>}

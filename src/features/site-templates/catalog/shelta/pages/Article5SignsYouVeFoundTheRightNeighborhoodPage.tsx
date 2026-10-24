@@ -1,0 +1,1 @@
+import type {SiteTemplatePageProps} from '../../../types';import {ArticlePage} from './ArticlePage';export default function Page(props:SiteTemplatePageProps){return <ArticlePage {...props} slug="5-signs-you-ve-found-the-right-neighborhood"/>}

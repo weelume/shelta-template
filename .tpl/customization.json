@@ -1,0 +1,76 @@
+{
+  "format": "git-template-customization",
+  "formatVersion": "0.2.0",
+  "entries": [
+    {
+      "id": "brand",
+      "title": "品牌配置",
+      "description": "名称、邮箱、电话与地址",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/shelta/config/brand.ts",
+          "kind": "file",
+          "purpose": "品牌配置"
+        }
+      ],
+      "constraints": [
+        "保留中英双语与宿主注入能力"
+      ],
+      "checks": [
+        "typecheck",
+        "lint"
+      ]
+    },
+    {
+      "id": "content",
+      "title": "内容与页面",
+      "description": "房源、文章、服务及中文内容",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/shelta/content.ts",
+          "kind": "file",
+          "purpose": "双语内容"
+        },
+        {
+          "path": "src/features/site-templates/catalog/shelta/pages",
+          "kind": "directory",
+          "purpose": "页面组合"
+        }
+      ],
+      "constraints": [
+        "变更路由时同步 meta.ts 与模板元数据"
+      ],
+      "checks": [
+        "typecheck",
+        "test"
+      ]
+    },
+    {
+      "id": "theme",
+      "title": "主题与动效",
+      "description": "字体、色彩、布局与交互",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/shelta/theme.css",
+          "kind": "file",
+          "purpose": "主题变量和响应式布局"
+        },
+        {
+          "path": "src/features/site-templates/catalog/shelta/components",
+          "kind": "directory",
+          "purpose": "公共组件与动画"
+        }
+      ],
+      "constraints": [
+        "尊重减少动态效果设置",
+        "验证 PC、iPad、H5 和 320px"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    }
+  ],
+  "$schema": "./schemas/customization.schema.json"
+}

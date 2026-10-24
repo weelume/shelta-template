@@ -1,0 +1,1 @@
+import type {SiteTemplatePageProps} from '../../../types';import {UtilityPage} from './UtilityPage';export default function Page(props:SiteTemplatePageProps){return <UtilityPage {...props} kind="changelog"/>}

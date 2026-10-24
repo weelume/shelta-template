@@ -1,0 +1,1 @@
+import Page from '../features/site-templates/catalog/shelta/pages/NotFoundPage';export default function NotFound(){return <Page basePath="" locale="zh"/>}

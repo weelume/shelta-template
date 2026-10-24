@@ -1,0 +1,1 @@
+import type {SiteTemplatePageProps} from '../../../types';import {ArticlePage} from './ArticlePage';export default function Page(props:SiteTemplatePageProps){return <ArticlePage {...props} slug="why-pre-approval-matters-more-than-you-think"/>}

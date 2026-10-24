@@ -1,0 +1,3872 @@
+{
+  "404.html": {
+    "text": [
+      "Contact",
+      "Something Went Wrong!",
+      "The page you're looking for isn't quite ready yet — we're still putting the finishing touches on it.",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Iigh8k2Z9L3SAYrNbAMVoRukuks.png",
+        "alt": "Banner Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "about.html": {
+    "text": [
+      "Contact",
+      "(About Us)",
+      "Strategic insight. Proven results.",
+      "We're not just real estate agents. We're your neighbors, your advocates, and the team that truly cares about your next chapter.",
+      "Results that prove it.",
+      "Built on trust.",
+      "Stronger than a handshake.",
+      "Our Values",
+      "We didn't just build a real estate company. We built a set of beliefs that guide every conversation, every offer, and every key we hand over.",
+      "We believe that honesty isn't just the best policy — it's the only policy. In an industry where fine print and fast talk are too common, we choose a different path.",
+      "(01)",
+      "Honesty First",
+      "(02)",
+      "Clients Over Commissions",
+      "(03)",
+      "Local Love",
+      "(04)",
+      "Clear Communication",
+      "(05)",
+      "Long-Term Relationships",
+      "A Note from Our Founder",
+      "No filters. No fluff. Just why I started this — and why I still show up every day.",
+      "I'll be honest with you — I didn't grow up dreaming of selling homes.",
+      "I watched too many good people get lost in confusing contracts and pushy sales tactics. Real estate shouldn't feel like that. So I built Shelta to be different — honest, human, and genuinely helpful. Every agent on our team has skill and heart. Because you deserve both.",
+      "Lara Jeans",
+      "CEO of SHELTA",
+      "Properties Sold",
+      "Hundreds of successful closings across every property type — from first-time buyer homes to luxury estates.",
+      "Happy Customes",
+      "Genuine smiles, lifelong relationships, from homeowners who felt supported every step of the way.",
+      "Years of Experience",
+      "Decades of navigating market shifts, negotiation tables, and complex contracts — so you don't have to.",
+      "Our Service",
+      "Finding the right property is simple. With our platform, you can search thousands of verified listings.",
+      "Buy",
+      "Find your dream home with confidence. Explore verified listings, compare neighborhoods, and get expert guidance every step of the way — ensuring you make the right choice for your lifestyle and budget.",
+      "Sell",
+      "Sell your property with confidence. Get a free market valuation, professional staging advice, and strategic pricing that attracts serious buyers — ensuring you maximize value and close on your timeline.",
+      "Rent",
+      "Find your next rental with confidence. Browse verified listings, compare amenities and locations, and get expert support through applications and leases — ensuring you secure a space that truly fits your life.",
+      "Lease",
+      "Lease your property with confidence. Attract quality tenants with professional marketing, thorough screening, and clear agreements — ensuring steady income and peace of mind for the long term.",
+      "Auction",
+      "Buy at auction with confidence. Access upcoming auctions, review property details, and get expert bidding strategies before you raise your paddle — ensuring you win the right property at the right price.",
+      "Meet Our Agents",
+      "Years of market experience, deep neighborhood knowledge, and a commitment to making your real estate journey as smooth and stress-free as possible.",
+      "I'm here to listen, guide, and find the perfect place that truly feels like yours.",
+      "Michael Thomson",
+      "Senior Agent",
+      "Sarah Mitchell",
+      "Olivia Williams",
+      "We're with you from first to final handshake.",
+      "Every detail reviewed, every deadline met, every client updated. That's how homes are bought and sold with confidence.",
+      "Let's Talk",
+      "Awards & Recognitions",
+      "Best Real Estate Agency",
+      "Real Estate Leaderboard",
+      "2024",
+      "Top 10% of Agents Nationwide",
+      "Hillside Business Journal",
+      "Client Satisfaction Excellence Award",
+      "Rusted Realty Awards",
+      "Fastest Growing Agency in the Region",
+      "Local Business Review",
+      "Luxury Home Specialist of the Year",
+      "Premier Realty Awards",
+      "2024 & 2025",
+      "Ready toFind Your Place?",
+      "Whether you’re buying, renting, or selling, we make finding your perfect property simple and stress-free. Start your journey today and discover the home that’s right for you.",
+      "Start exploring",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Gx7U7dKmitRoflrSiujxmOsVYg.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/eZ6HspXXJX4nfKvYSEv4RuZ2A.png",
+        "alt": "a building with a tree in the middle of it"
+      },
+      {
+        "url": "https://framerusercontent.com/images/nINkidrsrzTPPrWP6ezT2dkjM.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/7Pyw884PO1yTiEeB5tmdePOT9U.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/QsEWmAriejtAWaQudL29UiKO0A.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/RMb4pumlYTSVSu8nZZQsK059gY.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/n57A41etpeNIW9nhFgq83LGTRw.jpg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/5R9ReAYegCyp1YqEFLOs85pyo.jpg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/7vgczwm2hdrDlya0parZkeinOs.jpg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/WB3GZTgrVSb3YRtRXMA1WV5PxQ0.jpg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/NyNqGJNzIxQczKtC4o4gIxGCJKA.jpg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/tW7n4J7kUlty9su41wkI2LZ1DoI.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/2reEHKP8LSwq1sFz4KkMpxnCqLk.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/z9l6Phai7DMNqIaxayDZnrZohsg.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/bo580aaesKChEclhtBqMecydQ.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/jPjlojgKbdrdpYh8nBs8AUncenE.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/Q96uj3ZvoafXYEIzr3gwg8gkNE.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/WvvrQS80r9vvNd8VpsHZqavRtSY.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/ZuI4Xy3AzNf6nymmpEWSt6HAfE.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/87UAglHmseqhVB1vAqfzx4Zyvg.jpg",
+        "alt": "Card Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/CHWlrAD4Jod5NesNVjCTk4WcM.png",
+        "alt": "Card Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/GQA9urkciAT4QhCf60cjY4WfEg.png",
+        "alt": "Card Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/GJDyeL9lOtv6NXRFTMPqjF39LU.png",
+        "alt": "Card Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/RO35HnpnKCLDge38hz7uqv60sM4.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/xxvHqJyTjl3BJjEdIFfWfiDcek.svg",
+        "alt": "Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/QSd9p6D7vKiz0WgeA8Rts5bcgCw.svg",
+        "alt": "Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/YqB4iuyTph5hvX67N2ItlSGOhFs.svg",
+        "alt": "Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/OeOD8VeqOGqcAixNl1tfVvXELIQ.svg",
+        "alt": "Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/pHuG8h8C5x3jNOLqvhEnPtHY9Is.svg",
+        "alt": "Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/CjAG7E6FK1OANYt87S4AiMZg8Tc.png",
+        "alt": "man in gray button up shirt"
+      },
+      {
+        "url": "https://framerusercontent.com/images/1h1RiwOA2PvAtcwA963jYfVWRbM.png",
+        "alt": "man standing near white wall"
+      },
+      {
+        "url": "https://framerusercontent.com/images/UlrPsVARX1J6ZOSvgPOX3dMUv1E.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "agent.html": {
+    "text": [
+      "Contact",
+      "Meet Our Agents",
+      "Years of market experience, deep neighborhood knowledge, and a commitment to making your real estate journey as smooth and stress-free as possible.",
+      "I'm here to listen, guide, and find the perfect place that truly feels like yours.",
+      "Micheal Thompson",
+      "Senior Agent",
+      "Sarah Mitchell",
+      "Olivia Williams",
+      "Jessica Reynolds",
+      "Amanda Carter",
+      "James Anderson",
+      "Ready toFind Your Place?",
+      "Whether you’re buying, renting, or selling, we make finding your perfect property simple and stress-free. Start your journey today and discover the home that’s right for you.",
+      "Start exploring",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/CiWJem5elr1JAmCNwdQZVSQ2ZKo.png",
+        "alt": "men's gray crew-neck shirt"
+      },
+      {
+        "url": "https://framerusercontent.com/images/xxvHqJyTjl3BJjEdIFfWfiDcek.svg",
+        "alt": "Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/QSd9p6D7vKiz0WgeA8Rts5bcgCw.svg",
+        "alt": "Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/YqB4iuyTph5hvX67N2ItlSGOhFs.svg",
+        "alt": "Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/OeOD8VeqOGqcAixNl1tfVvXELIQ.svg",
+        "alt": "Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/pHuG8h8C5x3jNOLqvhEnPtHY9Is.svg",
+        "alt": "Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/CjAG7E6FK1OANYt87S4AiMZg8Tc.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/8hCSdhq4UxITHdORocxc2pwpwW4.png",
+        "alt": "man in green crew neck shirt and black hat"
+      },
+      {
+        "url": "https://framerusercontent.com/images/d8o3aJHcyjnYytTIxYrUyTSsCRs.png",
+        "alt": "man standing beside wall"
+      },
+      {
+        "url": "https://framerusercontent.com/images/DLjcioqHYYbDHoz3KtVknk3Ic8.png",
+        "alt": "man's grey and black shirt"
+      },
+      {
+        "url": "https://framerusercontent.com/images/1h1RiwOA2PvAtcwA963jYfVWRbM.png",
+        "alt": "man wearing black notched lapel suit jacket in focus photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/UlrPsVARX1J6ZOSvgPOX3dMUv1E.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "blog.html": {
+    "text": [
+      "Contact",
+      "Insights & Trends",
+      "Stay informed with the latest property market updates, expert analyses, and emerging trends — so you're always ahead, whether you're buying, selling, or investing.",
+      "Jun 9, 2026",
+      "Complete Home Buying Guide",
+      "Top 5 Neighborhoods to Invest in 2026",
+      "2026 Real Estate Market Trends",
+      "How to Spot a Great Investment Property",
+      "The Best Time of Year to Buy a Home",
+      "What to Fix Before Listing Your Home",
+      "Downsizing? Here's How to Make It Feel Like an Upgrade",
+      "How Interest Rates Affect Your Buying Power",
+      "10 Questions to Ask Before Hiring an Agent",
+      "Moving Out of State? Here's Your Checklist",
+      "5 Signs You've Found the Right Neighborhood",
+      "Why Pre-Approval Matters More Than You Think",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Wt3FJcNvzLyFvghJf9P206ufYU.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/fDywGgx4UtI7wEoqDFTUIKoKRHo.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7Pyw884PO1yTiEeB5tmdePOT9U.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/wIMzcC6cvliXIBiRuxALXgrMlE.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/2kdIL3Jq26ZWtogfIaze3yw8Ag.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/HPzPsKk503gY047TxSK25T3wtn8.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/XHpedbFMV67ye2Iwwc0Y2bGrqcg.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/ZmqtOGCxPb9IfX5hMAaaMQnoY.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/qclwAIQgzGHazCt7TkTM0Ik.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/ezEbADEvmLH1uS67RQ7PBCI.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/2TJg03MINwecGpNygksnUFCqtM.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/UZNqGwh7vSM1Mq4x5RMlsuRgnzs.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "blog__10-questions-to-ask-before-hiring-an-agent.html": {
+    "text": [
+      "Contact",
+      "10 Questions to Ask Before Hiring an Agent",
+      "A data-driven look at pricing shifts, demand hotspots, and smart investment strategies — because the best decisions are built on numbers, not guesses.",
+      "[ Category ]",
+      "Buy",
+      "[ Author ]",
+      "Lara Jeans",
+      "[ Reading Time ]",
+      "4 Minute",
+      "[ Publish Date ]",
+      "Jun 9, 2026",
+      "Let's Be Real for a Second",
+      "Buying a home can feel like everyone else knows a secret you don't. Pre-approvals. Contingencies. Closing costs. Earnest money. It's enough to make your head spin. But here's the truth: it's not that complicated once someone explains it in plain English. So let's do that.",
+      "The Number You Actually Need to Know First",
+      "Before you fall in love with a kitchen island or a clawfoot tub, get real about your finances. Your credit score isn't just a number — it's the difference between a good interest rate and a great one.",
+      "And your budget isn't just the listing price — it's the down payment, closing costs, moving truck, and that first unexpected repair. Run the numbers first. Fall in love second.",
+      "Why \"Just Looking\" Costs You Nothing but Time",
+      "A lot of buyers wait until they're \"ready\" to start touring homes. That's backward. The best way to understand what you actually want is to walk through houses — even ones you think you won't buy.",
+      "You'll learn what you love, what you hate, and what you never even thought about. And the best part? Looking is free.",
+      "The Pre-Approval Letter Is Your Golden Ticket",
+      "Here's something most buyers don't realize: in a competitive market, your charming personality won't win the house. The seller wants proof you can actually pay for it.",
+      "A pre-approval letter from a lender says, \"We've checked. This buyer is serious.\" Get it before you make a single offer. Not getting it is like showing up to a race without shoes.",
+      "Your Agent Should Feel Like a Teammate, Not a Salesperson",
+      "You're about to spend weeks or months with this person. Choose someone who listens more than they talk, answers your late-night texts, and explains things without making you feel silly. A great agent doesn't just open doors — they spot red flags, negotiate like a pro, and celebrate with you when you finally get those keys. Don't settle for less.",
+      "One Last Thing Before You Go",
+      "This guide will still be here when you need it. Bookmark it. Share it with someone who's also looking. And when you're ready — or even when you're not sure — we're here to help. No pressure. Just honest answers and real people who actually love this stuff.",
+      "Insights & Trends",
+      "Stay informed with the latest property market updates, expert analyses, and emerging trends — so you're always ahead, whether you're buying, selling, or investing.",
+      "Tuesday, June 9, 2026",
+      "Complete Home Buying Guide",
+      "2026 Real Estate Market Trends",
+      "How to Spot a Great Investment Property",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/qclwAIQgzGHazCt7TkTM0Ik.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/TGVRNDaqm1t0fcxGHZI8TcGcOug.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/Wt3FJcNvzLyFvghJf9P206ufYU.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7Pyw884PO1yTiEeB5tmdePOT9U.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/wIMzcC6cvliXIBiRuxALXgrMlE.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "blog__2026-real-estate-market-trends.html": {
+    "text": [
+      "Contact",
+      "2026 Real Estate Market Trends",
+      "A data-driven look at pricing shifts, demand hotspots, and smart investment strategies — because the best decisions are built on numbers, not guesses.",
+      "[ Category ]",
+      "Buy",
+      "[ Author ]",
+      "Lara Jeans",
+      "[ Reading Time ]",
+      "4 Minute",
+      "[ Publish Date ]",
+      "Jun 9, 2026",
+      "Let's Be Real for a Second",
+      "Buying a home can feel like everyone else knows a secret you don't. Pre-approvals. Contingencies. Closing costs. Earnest money. It's enough to make your head spin. But here's the truth: it's not that complicated once someone explains it in plain English. So let's do that.",
+      "The Number You Actually Need to Know First",
+      "Before you fall in love with a kitchen island or a clawfoot tub, get real about your finances. Your credit score isn't just a number — it's the difference between a good interest rate and a great one.",
+      "And your budget isn't just the listing price — it's the down payment, closing costs, moving truck, and that first unexpected repair. Run the numbers first. Fall in love second.",
+      "Why \"Just Looking\" Costs You Nothing but Time",
+      "A lot of buyers wait until they're \"ready\" to start touring homes. That's backward. The best way to understand what you actually want is to walk through houses — even ones you think you won't buy.",
+      "You'll learn what you love, what you hate, and what you never even thought about. And the best part? Looking is free.",
+      "The Pre-Approval Letter Is Your Golden Ticket",
+      "Here's something most buyers don't realize: in a competitive market, your charming personality won't win the house. The seller wants proof you can actually pay for it.",
+      "A pre-approval letter from a lender says, \"We've checked. This buyer is serious.\" Get it before you make a single offer. Not getting it is like showing up to a race without shoes.",
+      "Your Agent Should Feel Like a Teammate, Not a Salesperson",
+      "You're about to spend weeks or months with this person. Choose someone who listens more than they talk, answers your late-night texts, and explains things without making you feel silly. A great agent doesn't just open doors — they spot red flags, negotiate like a pro, and celebrate with you when you finally get those keys. Don't settle for less.",
+      "One Last Thing Before You Go",
+      "This guide will still be here when you need it. Bookmark it. Share it with someone who's also looking. And when you're ready — or even when you're not sure — we're here to help. No pressure. Just honest answers and real people who actually love this stuff.",
+      "Insights & Trends",
+      "Stay informed with the latest property market updates, expert analyses, and emerging trends — so you're always ahead, whether you're buying, selling, or investing.",
+      "Tuesday, June 9, 2026",
+      "Complete Home Buying Guide",
+      "How to Spot a Great Investment Property",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7Pyw884PO1yTiEeB5tmdePOT9U.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/TGVRNDaqm1t0fcxGHZI8TcGcOug.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/Wt3FJcNvzLyFvghJf9P206ufYU.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/wIMzcC6cvliXIBiRuxALXgrMlE.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "blog__5-signs-you-ve-found-the-right-neighborhood.html": {
+    "text": [
+      "Contact",
+      "5 Signs You've Found the Right Neighborhood",
+      "A data-driven look at pricing shifts, demand hotspots, and smart investment strategies — because the best decisions are built on numbers, not guesses.",
+      "[ Category ]",
+      "Buy",
+      "[ Author ]",
+      "Lara Jeans",
+      "[ Reading Time ]",
+      "4 Minute",
+      "[ Publish Date ]",
+      "Jun 9, 2026",
+      "Let's Be Real for a Second",
+      "Buying a home can feel like everyone else knows a secret you don't. Pre-approvals. Contingencies. Closing costs. Earnest money. It's enough to make your head spin. But here's the truth: it's not that complicated once someone explains it in plain English. So let's do that.",
+      "The Number You Actually Need to Know First",
+      "Before you fall in love with a kitchen island or a clawfoot tub, get real about your finances. Your credit score isn't just a number — it's the difference between a good interest rate and a great one.",
+      "And your budget isn't just the listing price — it's the down payment, closing costs, moving truck, and that first unexpected repair. Run the numbers first. Fall in love second.",
+      "Why \"Just Looking\" Costs You Nothing but Time",
+      "A lot of buyers wait until they're \"ready\" to start touring homes. That's backward. The best way to understand what you actually want is to walk through houses — even ones you think you won't buy.",
+      "You'll learn what you love, what you hate, and what you never even thought about. And the best part? Looking is free.",
+      "The Pre-Approval Letter Is Your Golden Ticket",
+      "Here's something most buyers don't realize: in a competitive market, your charming personality won't win the house. The seller wants proof you can actually pay for it.",
+      "A pre-approval letter from a lender says, \"We've checked. This buyer is serious.\" Get it before you make a single offer. Not getting it is like showing up to a race without shoes.",
+      "Your Agent Should Feel Like a Teammate, Not a Salesperson",
+      "You're about to spend weeks or months with this person. Choose someone who listens more than they talk, answers your late-night texts, and explains things without making you feel silly. A great agent doesn't just open doors — they spot red flags, negotiate like a pro, and celebrate with you when you finally get those keys. Don't settle for less.",
+      "One Last Thing Before You Go",
+      "This guide will still be here when you need it. Bookmark it. Share it with someone who's also looking. And when you're ready — or even when you're not sure — we're here to help. No pressure. Just honest answers and real people who actually love this stuff.",
+      "Insights & Trends",
+      "Stay informed with the latest property market updates, expert analyses, and emerging trends — so you're always ahead, whether you're buying, selling, or investing.",
+      "Tuesday, June 9, 2026",
+      "Complete Home Buying Guide",
+      "2026 Real Estate Market Trends",
+      "How to Spot a Great Investment Property",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/2TJg03MINwecGpNygksnUFCqtM.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/TGVRNDaqm1t0fcxGHZI8TcGcOug.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/Wt3FJcNvzLyFvghJf9P206ufYU.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7Pyw884PO1yTiEeB5tmdePOT9U.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/wIMzcC6cvliXIBiRuxALXgrMlE.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "blog__complete-home-buying-guide.html": {
+    "text": [
+      "Contact",
+      "Complete Home Buying Guide",
+      "A data-driven look at pricing shifts, demand hotspots, and smart investment strategies — because the best decisions are built on numbers, not guesses.",
+      "[ Category ]",
+      "Buy",
+      "[ Author ]",
+      "Lara Jeans",
+      "[ Reading Time ]",
+      "4 Minute",
+      "[ Publish Date ]",
+      "Jun 9, 2026",
+      "Let's Be Real for a Second",
+      "Buying a home can feel like everyone else knows a secret you don't. Pre-approvals. Contingencies. Closing costs. Earnest money. It's enough to make your head spin. But here's the truth: it's not that complicated once someone explains it in plain English. So let's do that.",
+      "The Number You Actually Need to Know First",
+      "Before you fall in love with a kitchen island or a clawfoot tub, get real about your finances. Your credit score isn't just a number — it's the difference between a good interest rate and a great one.",
+      "And your budget isn't just the listing price — it's the down payment, closing costs, moving truck, and that first unexpected repair. Run the numbers first. Fall in love second.",
+      "Why \"Just Looking\" Costs You Nothing but Time",
+      "A lot of buyers wait until they're \"ready\" to start touring homes. That's backward. The best way to understand what you actually want is to walk through houses — even ones you think you won't buy.",
+      "You'll learn what you love, what you hate, and what you never even thought about. And the best part? Looking is free.",
+      "The Pre-Approval Letter Is Your Golden Ticket",
+      "Here's something most buyers don't realize: in a competitive market, your charming personality won't win the house. The seller wants proof you can actually pay for it.",
+      "A pre-approval letter from a lender says, \"We've checked. This buyer is serious.\" Get it before you make a single offer. Not getting it is like showing up to a race without shoes.",
+      "Your Agent Should Feel Like a Teammate, Not a Salesperson",
+      "You're about to spend weeks or months with this person. Choose someone who listens more than they talk, answers your late-night texts, and explains things without making you feel silly. A great agent doesn't just open doors — they spot red flags, negotiate like a pro, and celebrate with you when you finally get those keys. Don't settle for less.",
+      "One Last Thing Before You Go",
+      "This guide will still be here when you need it. Bookmark it. Share it with someone who's also looking. And when you're ready — or even when you're not sure — we're here to help. No pressure. Just honest answers and real people who actually love this stuff.",
+      "Insights & Trends",
+      "Stay informed with the latest property market updates, expert analyses, and emerging trends — so you're always ahead, whether you're buying, selling, or investing.",
+      "Tuesday, June 9, 2026",
+      "2026 Real Estate Market Trends",
+      "How to Spot a Great Investment Property",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Wt3FJcNvzLyFvghJf9P206ufYU.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/TGVRNDaqm1t0fcxGHZI8TcGcOug.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/7Pyw884PO1yTiEeB5tmdePOT9U.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/wIMzcC6cvliXIBiRuxALXgrMlE.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "blog__downsizing-here-s-how-to-make-it-feel-like-an-upgrade.html": {
+    "text": [
+      "Contact",
+      "Downsizing? Here's How to Make It Feel Like an Upgrade",
+      "A data-driven look at pricing shifts, demand hotspots, and smart investment strategies — because the best decisions are built on numbers, not guesses.",
+      "[ Category ]",
+      "Buy",
+      "[ Author ]",
+      "Lara Jeans",
+      "[ Reading Time ]",
+      "4 Minute",
+      "[ Publish Date ]",
+      "Jun 9, 2026",
+      "Let's Be Real for a Second",
+      "Buying a home can feel like everyone else knows a secret you don't. Pre-approvals. Contingencies. Closing costs. Earnest money. It's enough to make your head spin. But here's the truth: it's not that complicated once someone explains it in plain English. So let's do that.",
+      "The Number You Actually Need to Know First",
+      "Before you fall in love with a kitchen island or a clawfoot tub, get real about your finances. Your credit score isn't just a number — it's the difference between a good interest rate and a great one.",
+      "And your budget isn't just the listing price — it's the down payment, closing costs, moving truck, and that first unexpected repair. Run the numbers first. Fall in love second.",
+      "Why \"Just Looking\" Costs You Nothing but Time",
+      "A lot of buyers wait until they're \"ready\" to start touring homes. That's backward. The best way to understand what you actually want is to walk through houses — even ones you think you won't buy.",
+      "You'll learn what you love, what you hate, and what you never even thought about. And the best part? Looking is free.",
+      "The Pre-Approval Letter Is Your Golden Ticket",
+      "Here's something most buyers don't realize: in a competitive market, your charming personality won't win the house. The seller wants proof you can actually pay for it.",
+      "A pre-approval letter from a lender says, \"We've checked. This buyer is serious.\" Get it before you make a single offer. Not getting it is like showing up to a race without shoes.",
+      "Your Agent Should Feel Like a Teammate, Not a Salesperson",
+      "You're about to spend weeks or months with this person. Choose someone who listens more than they talk, answers your late-night texts, and explains things without making you feel silly. A great agent doesn't just open doors — they spot red flags, negotiate like a pro, and celebrate with you when you finally get those keys. Don't settle for less.",
+      "One Last Thing Before You Go",
+      "This guide will still be here when you need it. Bookmark it. Share it with someone who's also looking. And when you're ready — or even when you're not sure — we're here to help. No pressure. Just honest answers and real people who actually love this stuff.",
+      "Insights & Trends",
+      "Stay informed with the latest property market updates, expert analyses, and emerging trends — so you're always ahead, whether you're buying, selling, or investing.",
+      "Tuesday, June 9, 2026",
+      "Complete Home Buying Guide",
+      "2026 Real Estate Market Trends",
+      "How to Spot a Great Investment Property",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/XHpedbFMV67ye2Iwwc0Y2bGrqcg.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/TGVRNDaqm1t0fcxGHZI8TcGcOug.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/Wt3FJcNvzLyFvghJf9P206ufYU.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7Pyw884PO1yTiEeB5tmdePOT9U.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/wIMzcC6cvliXIBiRuxALXgrMlE.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "blog__how-interest-rates-affect-your-buying-power.html": {
+    "text": [
+      "Contact",
+      "How Interest Rates Affect Your Buying Power",
+      "A data-driven look at pricing shifts, demand hotspots, and smart investment strategies — because the best decisions are built on numbers, not guesses.",
+      "[ Category ]",
+      "Buy",
+      "[ Author ]",
+      "Lara Jeans",
+      "[ Reading Time ]",
+      "4 Minute",
+      "[ Publish Date ]",
+      "Jun 9, 2026",
+      "Let's Be Real for a Second",
+      "Buying a home can feel like everyone else knows a secret you don't. Pre-approvals. Contingencies. Closing costs. Earnest money. It's enough to make your head spin. But here's the truth: it's not that complicated once someone explains it in plain English. So let's do that.",
+      "The Number You Actually Need to Know First",
+      "Before you fall in love with a kitchen island or a clawfoot tub, get real about your finances. Your credit score isn't just a number — it's the difference between a good interest rate and a great one.",
+      "And your budget isn't just the listing price — it's the down payment, closing costs, moving truck, and that first unexpected repair. Run the numbers first. Fall in love second.",
+      "Why \"Just Looking\" Costs You Nothing but Time",
+      "A lot of buyers wait until they're \"ready\" to start touring homes. That's backward. The best way to understand what you actually want is to walk through houses — even ones you think you won't buy.",
+      "You'll learn what you love, what you hate, and what you never even thought about. And the best part? Looking is free.",
+      "The Pre-Approval Letter Is Your Golden Ticket",
+      "Here's something most buyers don't realize: in a competitive market, your charming personality won't win the house. The seller wants proof you can actually pay for it.",
+      "A pre-approval letter from a lender says, \"We've checked. This buyer is serious.\" Get it before you make a single offer. Not getting it is like showing up to a race without shoes.",
+      "Your Agent Should Feel Like a Teammate, Not a Salesperson",
+      "You're about to spend weeks or months with this person. Choose someone who listens more than they talk, answers your late-night texts, and explains things without making you feel silly. A great agent doesn't just open doors — they spot red flags, negotiate like a pro, and celebrate with you when you finally get those keys. Don't settle for less.",
+      "One Last Thing Before You Go",
+      "This guide will still be here when you need it. Bookmark it. Share it with someone who's also looking. And when you're ready — or even when you're not sure — we're here to help. No pressure. Just honest answers and real people who actually love this stuff.",
+      "Insights & Trends",
+      "Stay informed with the latest property market updates, expert analyses, and emerging trends — so you're always ahead, whether you're buying, selling, or investing.",
+      "Tuesday, June 9, 2026",
+      "Complete Home Buying Guide",
+      "2026 Real Estate Market Trends",
+      "How to Spot a Great Investment Property",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/ZmqtOGCxPb9IfX5hMAaaMQnoY.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/TGVRNDaqm1t0fcxGHZI8TcGcOug.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/Wt3FJcNvzLyFvghJf9P206ufYU.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7Pyw884PO1yTiEeB5tmdePOT9U.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/wIMzcC6cvliXIBiRuxALXgrMlE.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "blog__how-to-spot-a-great-investment-property.html": {
+    "text": [
+      "Contact",
+      "How to Spot a Great Investment Property",
+      "A data-driven look at pricing shifts, demand hotspots, and smart investment strategies — because the best decisions are built on numbers, not guesses.",
+      "[ Category ]",
+      "Buy",
+      "[ Author ]",
+      "Lara Jeans",
+      "[ Reading Time ]",
+      "4 Minute",
+      "[ Publish Date ]",
+      "Jun 9, 2026",
+      "Let's Be Real for a Second",
+      "Buying a home can feel like everyone else knows a secret you don't. Pre-approvals. Contingencies. Closing costs. Earnest money. It's enough to make your head spin. But here's the truth: it's not that complicated once someone explains it in plain English. So let's do that.",
+      "The Number You Actually Need to Know First",
+      "Before you fall in love with a kitchen island or a clawfoot tub, get real about your finances. Your credit score isn't just a number — it's the difference between a good interest rate and a great one.",
+      "And your budget isn't just the listing price — it's the down payment, closing costs, moving truck, and that first unexpected repair. Run the numbers first. Fall in love second.",
+      "Why \"Just Looking\" Costs You Nothing but Time",
+      "A lot of buyers wait until they're \"ready\" to start touring homes. That's backward. The best way to understand what you actually want is to walk through houses — even ones you think you won't buy.",
+      "You'll learn what you love, what you hate, and what you never even thought about. And the best part? Looking is free.",
+      "The Pre-Approval Letter Is Your Golden Ticket",
+      "Here's something most buyers don't realize: in a competitive market, your charming personality won't win the house. The seller wants proof you can actually pay for it.",
+      "A pre-approval letter from a lender says, \"We've checked. This buyer is serious.\" Get it before you make a single offer. Not getting it is like showing up to a race without shoes.",
+      "Your Agent Should Feel Like a Teammate, Not a Salesperson",
+      "You're about to spend weeks or months with this person. Choose someone who listens more than they talk, answers your late-night texts, and explains things without making you feel silly. A great agent doesn't just open doors — they spot red flags, negotiate like a pro, and celebrate with you when you finally get those keys. Don't settle for less.",
+      "One Last Thing Before You Go",
+      "This guide will still be here when you need it. Bookmark it. Share it with someone who's also looking. And when you're ready — or even when you're not sure — we're here to help. No pressure. Just honest answers and real people who actually love this stuff.",
+      "Insights & Trends",
+      "Stay informed with the latest property market updates, expert analyses, and emerging trends — so you're always ahead, whether you're buying, selling, or investing.",
+      "Tuesday, June 9, 2026",
+      "Complete Home Buying Guide",
+      "2026 Real Estate Market Trends",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/wIMzcC6cvliXIBiRuxALXgrMlE.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/TGVRNDaqm1t0fcxGHZI8TcGcOug.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/Wt3FJcNvzLyFvghJf9P206ufYU.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7Pyw884PO1yTiEeB5tmdePOT9U.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "blog__moving-out-of-state-here-s-your-checklist.html": {
+    "text": [
+      "Contact",
+      "Moving Out of State? Here's Your Checklist",
+      "A data-driven look at pricing shifts, demand hotspots, and smart investment strategies — because the best decisions are built on numbers, not guesses.",
+      "[ Category ]",
+      "Buy",
+      "[ Author ]",
+      "Lara Jeans",
+      "[ Reading Time ]",
+      "4 Minute",
+      "[ Publish Date ]",
+      "Jun 9, 2026",
+      "Let's Be Real for a Second",
+      "Buying a home can feel like everyone else knows a secret you don't. Pre-approvals. Contingencies. Closing costs. Earnest money. It's enough to make your head spin. But here's the truth: it's not that complicated once someone explains it in plain English. So let's do that.",
+      "The Number You Actually Need to Know First",
+      "Before you fall in love with a kitchen island or a clawfoot tub, get real about your finances. Your credit score isn't just a number — it's the difference between a good interest rate and a great one.",
+      "And your budget isn't just the listing price — it's the down payment, closing costs, moving truck, and that first unexpected repair. Run the numbers first. Fall in love second.",
+      "Why \"Just Looking\" Costs You Nothing but Time",
+      "A lot of buyers wait until they're \"ready\" to start touring homes. That's backward. The best way to understand what you actually want is to walk through houses — even ones you think you won't buy.",
+      "You'll learn what you love, what you hate, and what you never even thought about. And the best part? Looking is free.",
+      "The Pre-Approval Letter Is Your Golden Ticket",
+      "Here's something most buyers don't realize: in a competitive market, your charming personality won't win the house. The seller wants proof you can actually pay for it.",
+      "A pre-approval letter from a lender says, \"We've checked. This buyer is serious.\" Get it before you make a single offer. Not getting it is like showing up to a race without shoes.",
+      "Your Agent Should Feel Like a Teammate, Not a Salesperson",
+      "You're about to spend weeks or months with this person. Choose someone who listens more than they talk, answers your late-night texts, and explains things without making you feel silly. A great agent doesn't just open doors — they spot red flags, negotiate like a pro, and celebrate with you when you finally get those keys. Don't settle for less.",
+      "One Last Thing Before You Go",
+      "This guide will still be here when you need it. Bookmark it. Share it with someone who's also looking. And when you're ready — or even when you're not sure — we're here to help. No pressure. Just honest answers and real people who actually love this stuff.",
+      "Insights & Trends",
+      "Stay informed with the latest property market updates, expert analyses, and emerging trends — so you're always ahead, whether you're buying, selling, or investing.",
+      "Tuesday, June 9, 2026",
+      "Complete Home Buying Guide",
+      "2026 Real Estate Market Trends",
+      "How to Spot a Great Investment Property",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/ezEbADEvmLH1uS67RQ7PBCI.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/TGVRNDaqm1t0fcxGHZI8TcGcOug.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/Wt3FJcNvzLyFvghJf9P206ufYU.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7Pyw884PO1yTiEeB5tmdePOT9U.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/wIMzcC6cvliXIBiRuxALXgrMlE.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "blog__the-best-time-of-year-to-buy-a-home.html": {
+    "text": [
+      "Contact",
+      "The Best Time of Year to Buy a Home",
+      "A data-driven look at pricing shifts, demand hotspots, and smart investment strategies — because the best decisions are built on numbers, not guesses.",
+      "[ Category ]",
+      "Buy",
+      "[ Author ]",
+      "Lara Jeans",
+      "[ Reading Time ]",
+      "4 Minute",
+      "[ Publish Date ]",
+      "Jun 9, 2026",
+      "Let's Be Real for a Second",
+      "Buying a home can feel like everyone else knows a secret you don't. Pre-approvals. Contingencies. Closing costs. Earnest money. It's enough to make your head spin. But here's the truth: it's not that complicated once someone explains it in plain English. So let's do that.",
+      "The Number You Actually Need to Know First",
+      "Before you fall in love with a kitchen island or a clawfoot tub, get real about your finances. Your credit score isn't just a number — it's the difference between a good interest rate and a great one.",
+      "And your budget isn't just the listing price — it's the down payment, closing costs, moving truck, and that first unexpected repair. Run the numbers first. Fall in love second.",
+      "Why \"Just Looking\" Costs You Nothing but Time",
+      "A lot of buyers wait until they're \"ready\" to start touring homes. That's backward. The best way to understand what you actually want is to walk through houses — even ones you think you won't buy.",
+      "You'll learn what you love, what you hate, and what you never even thought about. And the best part? Looking is free.",
+      "The Pre-Approval Letter Is Your Golden Ticket",
+      "Here's something most buyers don't realize: in a competitive market, your charming personality won't win the house. The seller wants proof you can actually pay for it.",
+      "A pre-approval letter from a lender says, \"We've checked. This buyer is serious.\" Get it before you make a single offer. Not getting it is like showing up to a race without shoes.",
+      "Your Agent Should Feel Like a Teammate, Not a Salesperson",
+      "You're about to spend weeks or months with this person. Choose someone who listens more than they talk, answers your late-night texts, and explains things without making you feel silly. A great agent doesn't just open doors — they spot red flags, negotiate like a pro, and celebrate with you when you finally get those keys. Don't settle for less.",
+      "One Last Thing Before You Go",
+      "This guide will still be here when you need it. Bookmark it. Share it with someone who's also looking. And when you're ready — or even when you're not sure — we're here to help. No pressure. Just honest answers and real people who actually love this stuff.",
+      "Insights & Trends",
+      "Stay informed with the latest property market updates, expert analyses, and emerging trends — so you're always ahead, whether you're buying, selling, or investing.",
+      "Tuesday, June 9, 2026",
+      "Complete Home Buying Guide",
+      "2026 Real Estate Market Trends",
+      "How to Spot a Great Investment Property",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/2kdIL3Jq26ZWtogfIaze3yw8Ag.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/TGVRNDaqm1t0fcxGHZI8TcGcOug.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/Wt3FJcNvzLyFvghJf9P206ufYU.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7Pyw884PO1yTiEeB5tmdePOT9U.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/wIMzcC6cvliXIBiRuxALXgrMlE.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "blog__top-5-neighborhoods-to-invest-in-2026.html": {
+    "text": [
+      "Contact",
+      "Top 5 Neighborhoods to Invest in 2026",
+      "A data-driven look at pricing shifts, demand hotspots, and smart investment strategies — because the best decisions are built on numbers, not guesses.",
+      "[ Category ]",
+      "Buy",
+      "[ Author ]",
+      "Lara Jeans",
+      "[ Reading Time ]",
+      "4 Minute",
+      "[ Publish Date ]",
+      "Jun 9, 2026",
+      "Let's Be Real for a Second",
+      "Buying a home can feel like everyone else knows a secret you don't. Pre-approvals. Contingencies. Closing costs. Earnest money. It's enough to make your head spin. But here's the truth: it's not that complicated once someone explains it in plain English. So let's do that.",
+      "The Number You Actually Need to Know First",
+      "Before you fall in love with a kitchen island or a clawfoot tub, get real about your finances. Your credit score isn't just a number — it's the difference between a good interest rate and a great one.",
+      "And your budget isn't just the listing price — it's the down payment, closing costs, moving truck, and that first unexpected repair. Run the numbers first. Fall in love second.",
+      "Why \"Just Looking\" Costs You Nothing but Time",
+      "A lot of buyers wait until they're \"ready\" to start touring homes. That's backward. The best way to understand what you actually want is to walk through houses — even ones you think you won't buy.",
+      "You'll learn what you love, what you hate, and what you never even thought about. And the best part? Looking is free.",
+      "The Pre-Approval Letter Is Your Golden Ticket",
+      "Here's something most buyers don't realize: in a competitive market, your charming personality won't win the house. The seller wants proof you can actually pay for it.",
+      "A pre-approval letter from a lender says, \"We've checked. This buyer is serious.\" Get it before you make a single offer. Not getting it is like showing up to a race without shoes.",
+      "Your Agent Should Feel Like a Teammate, Not a Salesperson",
+      "You're about to spend weeks or months with this person. Choose someone who listens more than they talk, answers your late-night texts, and explains things without making you feel silly. A great agent doesn't just open doors — they spot red flags, negotiate like a pro, and celebrate with you when you finally get those keys. Don't settle for less.",
+      "One Last Thing Before You Go",
+      "This guide will still be here when you need it. Bookmark it. Share it with someone who's also looking. And when you're ready — or even when you're not sure — we're here to help. No pressure. Just honest answers and real people who actually love this stuff.",
+      "Insights & Trends",
+      "Stay informed with the latest property market updates, expert analyses, and emerging trends — so you're always ahead, whether you're buying, selling, or investing.",
+      "Tuesday, June 9, 2026",
+      "Complete Home Buying Guide",
+      "2026 Real Estate Market Trends",
+      "How to Spot a Great Investment Property",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/fDywGgx4UtI7wEoqDFTUIKoKRHo.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/TGVRNDaqm1t0fcxGHZI8TcGcOug.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/Wt3FJcNvzLyFvghJf9P206ufYU.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7Pyw884PO1yTiEeB5tmdePOT9U.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/wIMzcC6cvliXIBiRuxALXgrMlE.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "blog__what-to-fix-before-listing-your-home.html": {
+    "text": [
+      "Contact",
+      "What to Fix Before Listing Your Home",
+      "A data-driven look at pricing shifts, demand hotspots, and smart investment strategies — because the best decisions are built on numbers, not guesses.",
+      "[ Category ]",
+      "Buy",
+      "[ Author ]",
+      "Lara Jeans",
+      "[ Reading Time ]",
+      "4 Minute",
+      "[ Publish Date ]",
+      "Jun 9, 2026",
+      "Let's Be Real for a Second",
+      "Buying a home can feel like everyone else knows a secret you don't. Pre-approvals. Contingencies. Closing costs. Earnest money. It's enough to make your head spin. But here's the truth: it's not that complicated once someone explains it in plain English. So let's do that.",
+      "The Number You Actually Need to Know First",
+      "Before you fall in love with a kitchen island or a clawfoot tub, get real about your finances. Your credit score isn't just a number — it's the difference between a good interest rate and a great one.",
+      "And your budget isn't just the listing price — it's the down payment, closing costs, moving truck, and that first unexpected repair. Run the numbers first. Fall in love second.",
+      "Why \"Just Looking\" Costs You Nothing but Time",
+      "A lot of buyers wait until they're \"ready\" to start touring homes. That's backward. The best way to understand what you actually want is to walk through houses — even ones you think you won't buy.",
+      "You'll learn what you love, what you hate, and what you never even thought about. And the best part? Looking is free.",
+      "The Pre-Approval Letter Is Your Golden Ticket",
+      "Here's something most buyers don't realize: in a competitive market, your charming personality won't win the house. The seller wants proof you can actually pay for it.",
+      "A pre-approval letter from a lender says, \"We've checked. This buyer is serious.\" Get it before you make a single offer. Not getting it is like showing up to a race without shoes.",
+      "Your Agent Should Feel Like a Teammate, Not a Salesperson",
+      "You're about to spend weeks or months with this person. Choose someone who listens more than they talk, answers your late-night texts, and explains things without making you feel silly. A great agent doesn't just open doors — they spot red flags, negotiate like a pro, and celebrate with you when you finally get those keys. Don't settle for less.",
+      "One Last Thing Before You Go",
+      "This guide will still be here when you need it. Bookmark it. Share it with someone who's also looking. And when you're ready — or even when you're not sure — we're here to help. No pressure. Just honest answers and real people who actually love this stuff.",
+      "Insights & Trends",
+      "Stay informed with the latest property market updates, expert analyses, and emerging trends — so you're always ahead, whether you're buying, selling, or investing.",
+      "Tuesday, June 9, 2026",
+      "Complete Home Buying Guide",
+      "2026 Real Estate Market Trends",
+      "How to Spot a Great Investment Property",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/HPzPsKk503gY047TxSK25T3wtn8.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/TGVRNDaqm1t0fcxGHZI8TcGcOug.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/Wt3FJcNvzLyFvghJf9P206ufYU.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7Pyw884PO1yTiEeB5tmdePOT9U.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/wIMzcC6cvliXIBiRuxALXgrMlE.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "blog__why-pre-approval-matters-more-than-you-think.html": {
+    "text": [
+      "Contact",
+      "Why Pre-Approval Matters More Than You Think",
+      "A data-driven look at pricing shifts, demand hotspots, and smart investment strategies — because the best decisions are built on numbers, not guesses.",
+      "[ Category ]",
+      "Buy",
+      "[ Author ]",
+      "Lara Jeans",
+      "[ Reading Time ]",
+      "4 Minute",
+      "[ Publish Date ]",
+      "Jun 9, 2026",
+      "Let's Be Real for a Second",
+      "Buying a home can feel like everyone else knows a secret you don't. Pre-approvals. Contingencies. Closing costs. Earnest money. It's enough to make your head spin. But here's the truth: it's not that complicated once someone explains it in plain English. So let's do that.",
+      "The Number You Actually Need to Know First",
+      "Before you fall in love with a kitchen island or a clawfoot tub, get real about your finances. Your credit score isn't just a number — it's the difference between a good interest rate and a great one.",
+      "And your budget isn't just the listing price — it's the down payment, closing costs, moving truck, and that first unexpected repair. Run the numbers first. Fall in love second.",
+      "Why \"Just Looking\" Costs You Nothing but Time",
+      "A lot of buyers wait until they're \"ready\" to start touring homes. That's backward. The best way to understand what you actually want is to walk through houses — even ones you think you won't buy.",
+      "You'll learn what you love, what you hate, and what you never even thought about. And the best part? Looking is free.",
+      "The Pre-Approval Letter Is Your Golden Ticket",
+      "Here's something most buyers don't realize: in a competitive market, your charming personality won't win the house. The seller wants proof you can actually pay for it.",
+      "A pre-approval letter from a lender says, \"We've checked. This buyer is serious.\" Get it before you make a single offer. Not getting it is like showing up to a race without shoes.",
+      "Your Agent Should Feel Like a Teammate, Not a Salesperson",
+      "You're about to spend weeks or months with this person. Choose someone who listens more than they talk, answers your late-night texts, and explains things without making you feel silly. A great agent doesn't just open doors — they spot red flags, negotiate like a pro, and celebrate with you when you finally get those keys. Don't settle for less.",
+      "One Last Thing Before You Go",
+      "This guide will still be here when you need it. Bookmark it. Share it with someone who's also looking. And when you're ready — or even when you're not sure — we're here to help. No pressure. Just honest answers and real people who actually love this stuff.",
+      "Insights & Trends",
+      "Stay informed with the latest property market updates, expert analyses, and emerging trends — so you're always ahead, whether you're buying, selling, or investing.",
+      "Tuesday, June 9, 2026",
+      "Complete Home Buying Guide",
+      "2026 Real Estate Market Trends",
+      "How to Spot a Great Investment Property",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/UZNqGwh7vSM1Mq4x5RMlsuRgnzs.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/TGVRNDaqm1t0fcxGHZI8TcGcOug.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/Wt3FJcNvzLyFvghJf9P206ufYU.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7Pyw884PO1yTiEeB5tmdePOT9U.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/wIMzcC6cvliXIBiRuxALXgrMlE.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "contact.html": {
+    "text": [
+      "Contact",
+      "Bringing your dream home to life one key at a time.",
+      "Whether you're buying, selling, or just curious — we'd love to hear from you.",
+      "Get in Touch",
+      "Talk to Us",
+      "+1 (234) 567 890",
+      "Write Us",
+      "info.shelta@gmail.com",
+      "Address",
+      "Unit 28, Shelta 25 Metro Center Dwight Road ,Watford  WD18 9DA, UK",
+      "Google Maps",
+      "Visit Us",
+      "Book a Visit",
+      "Share your vision, and we'll shape it into a personalized home search plan that reflects your lifestyle, budget, and timeline with precision and care.",
+      "Have a clear idea of your dream home?",
+      "If you already know what you're looking for — a specific neighborhood, property type, number of bedrooms, or budget range — you can request a tailored home search right away. Simply fill in the form with as much detail as possible. Our team will translate your vision into a curated list of available properties and a clear action plan that fits your needs.",
+      "Let's Find Your Key",
+      "Fill in Infromation",
+      "Full Name",
+      "Email Address",
+      "Phone Number",
+      "Subject",
+      "Message",
+      "I agree to the Terms and Conditions and Privacy Policy.",
+      "Submit Now",
+      "Can’t find your answer?",
+      "If you have questions or need more details, free to reach out.",
+      "FAQs",
+      "How do I list my property on the platform?",
+      "Are the property listings verified?",
+      "Do I need to pay to browse properties?",
+      "Can I contact agents or owners directly?",
+      "What types of properties can I find here?",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/5ifdZLdDaNswCSVhbEi2vObliY.png",
+        "alt": "Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "home.html": {
+    "text": [
+      "Contact",
+      "SHELTA",
+      "Find Your Perfect Home Today.",
+      "Explore Properties",
+      "Let’s Talk",
+      "Lara Jeans",
+      "CEO of SHELTA",
+      "WE'VE HELPED 500+ FAMILIES FIND THEIR DREAM HOME",
+      "About Us",
+      "Learn More About Us",
+      "We've helped over 500+ families find their dream home, each journey reflecting a deep commitment to trust, transparency, and client happiness. From first-time buyers searching for a cozy starter home to growing families seeking their forever space, our experience spans every type of buyer and budget. Every successful closing is a testament to our passion for making real estate simple, honest, and rewarding.",
+      "Our team thrives on turning house hunts into heartfelt homecomings. We approach each client with fresh perspective, blending local market expertise with personalized guidance — because your dream home isn't just a transaction, it's your future.",
+      "Properties Sold",
+      "Hundreds of successful closings across every property type — from first-time buyer homes to luxury estates.",
+      "Happy Customes",
+      "Genuine smiles, lifelong relationships, from homeowners who felt supported every step of the way.",
+      "Years of Experience",
+      "Decades of navigating market shifts, negotiation tables, and complex contracts — so you don't have to.",
+      "(Curated)",
+      "Properties  For Living",
+      "Stay informed with the latest property market updates, expert analyses, and emerging trends — so you're always ahead, whether you're buying, selling, or investing.",
+      "Azure Crest Villas",
+      "Maple Grove Estates",
+      "Sterling Heights",
+      "Harbor Light Residences",
+      "Golden Oak Manor",
+      "Silver Oak Estates",
+      "Sunset Ridge Villas",
+      "Harbor View Residences",
+      "How We Work",
+      "Finding the right property should be simple. With our platform, you can search thousands of verified listings.",
+      "Discover",
+      "01",
+      "We take time to understand your needs, budget, and dreams. Whether you're buying, selling, or renting, we start with a deep conversation.",
+      "One-on-One Client Consultation",
+      "Needs & Budget Assessment",
+      "Neighborhood & Lifestyle Preferences",
+      "Market Overview & Pricing Strategy",
+      "Timeline & Goal Planning",
+      "Search & Explore",
+      "02",
+      "We handpick properties that match your unique criteria — and for sellers, we craft a tailored marketing plan to showcase your home to the right buyers.",
+      "Curated Property Listings",
+      "Exclusive Off-Market Options",
+      "Professional Photography & Virtual Tours",
+      "Scheduled Showings & Open Houses",
+      "Comparative Market Analysis",
+      "Negotiate & Offer",
+      "03",
+      "With market insight and sharp negotiation skills, we help you make competitive offers or evaluate incoming bids — always protecting your best interests.",
+      "Offer Preparation & Strategy",
+      "Counteroffer Negotiations",
+      "Contract Review & Explanation",
+      "Contingency Planning",
+      "Inspection & Appraisal Coordination",
+      "Close & Review",
+      "04",
+      "We guide you through paperwork, legal requirements, and final walkthroughs — leaving no question unanswered before you sign.",
+      "Document & Disclosure Management",
+      "Lender & Attorney Coordination",
+      "Final Walkthrough Assistance",
+      "Closing Day Support",
+      "Cost & Fee Transparency",
+      "Launch & Move In",
+      "05",
+      "We hand you the keys — and our support doesn't end there. Long after closing, we're here for referrals, future moves, or just to say hello.",
+      "Seamless Key Handover",
+      "Moving Checklist & Recommendations",
+      "Utility & Address Change Assistance",
+      "Post-Sale Follow-Up",
+      "Lifelong Client Partnership",
+      "Our Service",
+      "Finding the right property is simple. With our platform, you can search thousands of verified listings.",
+      "Buy",
+      "(01)",
+      "Find your dream home with confidence. Explore verified listings, compare neighborhoods, and get expert guidance every step of the way — ensuring you make the right choice for your lifestyle and budget.",
+      "Sell",
+      "(02)",
+      "Sell your property with confidence. Get a free market valuation, professional staging advice, and strategic pricing that attracts serious buyers — ensuring you maximize value and close on your timeline.",
+      "Rent",
+      "(03)",
+      "Find your next rental with confidence. Browse verified listings, compare amenities and locations, and get expert support through applications and leases — ensuring you secure a space that truly fits your life.",
+      "Lease",
+      "(04)",
+      "Lease your property with confidence. Attract quality tenants with professional marketing, thorough screening, and clear agreements — ensuring steady income and peace of mind for the long term.",
+      "Auction",
+      "(05)",
+      "Buy at auction with confidence. Access upcoming auctions, review property details, and get expert bidding strategies before you raise your paddle — ensuring you win the right property at the right price.",
+      "Showreel 26©",
+      "Meet Our Agents",
+      "Years of market experience, deep neighborhood knowledge, and a commitment to making your real estate journey as smooth and stress-free as possible.",
+      "I'm here to listen, guide, and find the perfect place that truly feels like yours.",
+      "Micheal Thompson",
+      "Senior Agent",
+      "Sarah Mitchell",
+      "James Anderson",
+      "We're with you from first to final handshake.",
+      "Every detail reviewed, every deadline met, every client updated. That's how homes are bought and sold with confidence.",
+      "Let's Talk",
+      "What Our Customersare Saying",
+      "Finding the right property should be simple. With our platform, you can search thousands of verified listings, filter by location, price, and property type with trusted agents or owners.",
+      "Watch Video",
+      "I was terrified to start my home search — the market felt overwhelming, and I had no idea where to even begin. But Shelta One walked me through every single step with patience, kindness, and real expertise. They answered all my questions, no matter how small, and never made me feel rushed or pressured.",
+      "Michael Torres",
+      "Austin, TX",
+      "I was completely lost when I started looking for my first apartment — every listing looked the same, and I didn't know what questions to ask. But Shelta One walked me through every single step with patience, kindness, and real expertise. They explained everything clearly, found options I actually loved, and made sure I never signed anything I didn't fully understand.",
+      "Jessica Chen",
+      "Portland, OR",
+      "I was relocating for work and had to buy a home from across the country — which felt impossible. But Shelta One walked me through every single step with patience, kindness, and real expertise. They did virtual tours, coordinated inspections, and made sure I felt confident before I ever saw the house in person.",
+      "Daniel Okafor",
+      "Chicago, IL",
+      "I thought selling my home would be a nightmare after hearing horror stories from friends. But Shelta One walked me through every single step with patience, kindness, and real expertise. They handled the photography, pricing, and negotiations while I just focused on packing — and we sold above asking price in less than two weeks.",
+      "Emily Rodriguez",
+      "Nashville, TN",
+      "My wife and I had been saving for years, but every time we got close to buying, something scared us off. But Shelta One walked me through every single step with patience, kindness, and real expertise. They broke everything down, answered our endless questions, and helped us finally stop renting and start owning.",
+      "James Carter",
+      "Atlanta, GA",
+      "As a single mom, I was nervous about buying a house on my own without someone to double-check everything. But Shelta One walked me through every single step with patience, kindness, and real expertise. They found me a safe neighborhood within my budget, and my kids finally have a backyard to play in.",
+      "Denver, CO",
+      "I'm an investor, so I've worked with a lot of agents — and most just want a quick sale. But Shelta One walked me through every single step with patience, kindness, and real expertise. They found off-market deals, ran the numbers with me, and actually cared about my long-term returns.",
+      "Marcus Williams",
+      "Phoenix, AZ",
+      "I'd been burned by a bad agent before, so I didn't trust anyone with my next home search. But Shelta One walked me through every single step with patience, kindness, and real expertise. They earned my trust back by being honest, responsive, and genuinely caring — and now I recommend them to everyone I know.",
+      "Olivia Brooks",
+      "Seattle, WA",
+      "Every listing looked the same, and I didn't know what questions to ask. But Shelta One walked me through every single step with patience, and real expertise.",
+      "Can’t find your answer?",
+      "If you have questions or need more details, free to reach out.",
+      "FAQs",
+      "How do I list my property on the platform?",
+      "Are the property listings verified?",
+      "Do I need to pay to browse properties?",
+      "Can I contact agents or owners directly?",
+      "What types of properties can I find here?",
+      "Simply click on the \"List Property\" button, fill in your property details, upload photos, and submit. Our team will verify your listing before it goes live.",
+      "Insights & Trends",
+      "Tuesday, June 9, 2026",
+      "Complete Home Buying Guide",
+      "2026 Real Estate Market Trends",
+      "How to Spot a Great Investment Property",
+      "Ready toFind Your Place?",
+      "Whether you’re buying, renting, or selling, we make finding your perfect property simple and stress-free. Start your journey today and discover the home that’s right for you.",
+      "Start exploring",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/npKCKNDcTtrlXF1CYMWxAlMeM.png",
+        "alt": "Agent Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/aQi8P4Ygrb6nRKFj0Q7LjD7PmM.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/XrFUoIPZApgFdb7mbMceOqqWSoE.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/VNCvvZHX9fSoEpABpFD65uPKUw.png",
+        "alt": "Hero Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/LcFEOFoYvotDH9FmbixuIKY58.png",
+        "alt": "Hero Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/yP2zzwk8PhLYbNxLV2BVmMuiYv0.png",
+        "alt": "Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/8WTO2gZg4E7Xb7L5QhYtyY6CALI.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/bDLeQGo35LP4DvzVMitgB9EvSwg.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/zenrYKc4atm2QOGNSesjcVPc.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/C5XzBCISLhQyH5W0JBnrbG63WOE.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/Ox0YgIyQ9loVYa2OimEBXx8LN3w.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/eGUmym0KT3eIbMi9BSH9WYQ.jpeg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/o9y806xjrKFABjecBNUwZiUo.jpg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/z50jIMalgedfqeVydWb90HyGO0.jpg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/8BXDdTiVdpnvzk9fYR2TAWbhzM.jpg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/p84cFapjZkjtkEsumIkpvdRdeU.jpg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/L0p53pxHxblJfdB6NYIyMcfYbgM.jpg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/JUlIeIOlJwJM5Mz7txmCE72q2o.jpg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/2KyI3BWdkGPc1wTsj28REMqV0s.jpeg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/VqNtXvcQnTCo8tbTV12ls04Kok.jpeg",
+        "alt": "Card Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/5ifdZLdDaNswCSVhbEi2vObliY.png",
+        "alt": "Card Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/PiqJfKuJ5NJa9oWwuYJrhWaEsfM.jpg",
+        "alt": "Card Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/tSpL9O9bwosE6Yoi1rsvzIgjcP8.jpg",
+        "alt": "Card Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7j5mW3herrjhYf1LUrbQl2JHL8.jpg",
+        "alt": "Card Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/87UAglHmseqhVB1vAqfzx4Zyvg.jpg",
+        "alt": "Card Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/CHWlrAD4Jod5NesNVjCTk4WcM.png",
+        "alt": "Card Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/GQA9urkciAT4QhCf60cjY4WfEg.png",
+        "alt": "Card Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/GJDyeL9lOtv6NXRFTMPqjF39LU.png",
+        "alt": "Card Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/pYyMPMCGzNzobcGZdQtR95AMXE.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/RO35HnpnKCLDge38hz7uqv60sM4.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/xxvHqJyTjl3BJjEdIFfWfiDcek.svg",
+        "alt": "Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/QSd9p6D7vKiz0WgeA8Rts5bcgCw.svg",
+        "alt": "Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/YqB4iuyTph5hvX67N2ItlSGOhFs.svg",
+        "alt": "Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/OeOD8VeqOGqcAixNl1tfVvXELIQ.svg",
+        "alt": "Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/pHuG8h8C5x3jNOLqvhEnPtHY9Is.svg",
+        "alt": "Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/CjAG7E6FK1OANYt87S4AiMZg8Tc.png",
+        "alt": "man in white button up t-shirt"
+      },
+      {
+        "url": "https://framerusercontent.com/images/1h1RiwOA2PvAtcwA963jYfVWRbM.png",
+        "alt": "men's gray crew-neck shirt"
+      },
+      {
+        "url": "https://framerusercontent.com/images/KdNslJQatbxKaicXN694HYPhvlI.png",
+        "alt": "Client Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/mmZj36p5bLNikJn0HI8tbW86sPc.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/vDzMFB21aILa2P1hKxP1z2aNlsw.jpeg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/WH2Q6A1chs7pPGicPi9yHMC9gMU.png",
+        "alt": "Client Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BqzLXsh2xpLA3qV7A4lGNWMnXn4.png",
+        "alt": "Client Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/gbpIl0WhZprOdl1QhEfrPS9VeNA.jpeg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/efpfepnBqndS8A4yWFGsm0EPqE.png",
+        "alt": "Client Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/1BFTQec5B8Az9Bgdh1FA2YgpLe4.png",
+        "alt": "Client Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/C476dnfJagHoVWAuKddIze19mg.jpeg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/TRJOzkx3HEpApG3lvsANdkI4Geo.png",
+        "alt": "Client Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/C6KWPQcDZ2AHRMPosG8UcH5nU.jpeg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/RK86TXAl3wgTpyQ8dZNBxMy3w.png",
+        "alt": "Client Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/V6NYx3ZkK8EVtzxkStdxWPu9Ks.png",
+        "alt": "Client Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/fykzJ3EzpsIMlnid08DuJz6Zw.png",
+        "alt": "Client Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/tAfLLpr1I0kZFyg5kaI5b55gTQ.png",
+        "alt": "Client Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BibfgXDqUgYsf9SGczQCDGhFocs.svg",
+        "alt": "Back Arrow"
+      },
+      {
+        "url": "https://framerusercontent.com/images/mIBNLqOA8bQykQHe9BBRfcE6X4.svg",
+        "alt": "Next Arrow"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Wt3FJcNvzLyFvghJf9P206ufYU.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7Pyw884PO1yTiEeB5tmdePOT9U.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/wIMzcC6cvliXIBiRuxALXgrMlE.png",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/UlrPsVARX1J6ZOSvgPOX3dMUv1E.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "privacy-policy.html": {
+    "text": [
+      "Contact",
+      "Last Updated:",
+      "Jun 17, 2026",
+      "Privacy Policy",
+      "Your privacy is important to us. This Privacy Policy explains how [Your Website Name] collects, uses, and protects your personal information when you use our platform. By accessing or using our services, you agree to this policy.",
+      "Information We Collect",
+      "We may collect personal information that users voluntarily provide when interacting with our website, such as when submitting inquiries, filling out contact forms, requesting property details, or scheduling consultations. This information may include names, email addresses, phone numbers, and any other details shared by the user. We may also automatically collect certain non-personal information, including IP address, browser type, device information, pages visited, and usage patterns, to help improve website performance and user experience. Additionally, cookies and similar technologies may be used to collect information related to website interactions and preferences.",
+      "How We Use Your Information",
+      "We use the information we collect to operate and improve our website, respond to inquiries, provide real estate services, and communicate with users. Information may also be used for customer support, marketing purposes, analytics, and to meet legal or regulatory requirements.",
+      "Sharing of Information",
+      "We do not sell or rent personal information to third parties. Information may be shared with trusted service providers or partners who assist in delivering our services, subject to confidentiality obligations. We may also disclose information if required by law or to protect our rights and safety.",
+      "Cookies & Tracking",
+      "We use cookies and similar tracking technologies to enhance website functionality, analyze usage, and improve user experience. Cookies allow us to remember user preferences and understand how visitors interact with the website. Users can control cookie settings through their browser, though disabling cookies may affect certain features.",
+      "Data Security",
+      "We implement reasonable technical and organizational measures to protect personal information from unauthorized access, misuse, or disclosure. While we strive to safeguard data, no method of transmission over the internet is completely secure.",
+      "Your Rights",
+      "Users may have the right to access, update, or request deletion of their personal information, subject to applicable laws. Users may also opt out of marketing communications at any time by following the instructions provided or contacting us directly.",
+      "Third-Party Links",
+      "Our website may contain links to third-party websites for convenience or additional information. We are not responsible for the privacy practices, content, or policies of external websites.",
+      "Children's Privacy",
+      "Our services are not intended for children under the age of 13, and we do not knowingly collect personal information from children. If such information is identified, we will take appropriate steps to remove it.",
+      "Updates to This Policy",
+      "We may update this Privacy Policy from time to time to reflect changes in practices or legal requirements. Any updates will be posted on this page with the revised effective date.",
+      "Contact Us",
+      "If you have any questions or concerns about this Privacy Policy or how we handle personal information, please contact us through the details provided on our website.",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "project.html": {
+    "text": [
+      "Contact",
+      "Curated Properties  For Living",
+      "Stay informed with the latest property market updates, expert analyses, and emerging trends — so you're always ahead, whether you're buying, selling, or investing.",
+      "Azure Crest Villas",
+      "$418.000.000",
+      "4 beds",
+      "3 Baths",
+      "4500 sqft",
+      "Maple Grove Estates",
+      "$350.000.000",
+      "Sterling Heights",
+      "$500.000.000",
+      "Harbor Light Residences",
+      "$450.000.000",
+      "Golden Oak Manor",
+      "$600.000.000",
+      "Silver Oak Estates",
+      "$650.000.000",
+      "Sunset Ridge Villas",
+      "$380.000.000",
+      "Harbor View Residences",
+      "$320.000.000",
+      "Ready toFind Your Place?",
+      "Whether you’re buying, renting, or selling, we make finding your perfect property simple and stress-free. Start your journey today and discover the home that’s right for you.",
+      "Start exploring",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/eGUmym0KT3eIbMi9BSH9WYQ.jpeg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/o9y806xjrKFABjecBNUwZiUo.jpg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/z50jIMalgedfqeVydWb90HyGO0.jpg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/8BXDdTiVdpnvzk9fYR2TAWbhzM.jpg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/p84cFapjZkjtkEsumIkpvdRdeU.jpg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/L0p53pxHxblJfdB6NYIyMcfYbgM.jpg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/JUlIeIOlJwJM5Mz7txmCE72q2o.jpg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/2KyI3BWdkGPc1wTsj28REMqV0s.jpeg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/UlrPsVARX1J6ZOSvgPOX3dMUv1E.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "project__azure-crest-villas.html": {
+    "text": [
+      "Contact",
+      "Azure Crest Villas",
+      "Perched on the highest ridge with panoramic views of the valley below, Azure Crest Villas offers a rare blend of modern elegance and natural beauty.",
+      "Marbella Coast, Spain",
+      "[ Property Type ]",
+      "Luxury VIlla",
+      "[ Bedrooms ]",
+      "4 beds",
+      "[ Square Footage ]",
+      "4500 sqft",
+      "[ Price ]",
+      "$418.000.000",
+      "[ Bathrooms ]",
+      "3 Baths",
+      "[ Lot Size ]",
+      "1.2 acres",
+      "Property Overview",
+      "Perched on the highest ridge with panoramic views of the valley below, Azure Crest Villas offers a rare blend of modern elegance and natural beauty. Each villa is designed to capture light, space, and the stunning horizon — with floor-to-ceiling windows, open-concept layouts, and premium finishes throughout.",
+      "Whether you're looking for a peaceful family retreat or a primary residence that feels like a vacation every day, Azure Crest delivers. The community is gated, private, and just 15 minutes from downtown shopping, dining, and top-rated schools.",
+      "Key Features",
+      "Gourmet kitchen with quartz countertops and Italian appliances",
+      "Floor-to-ceiling windows with beautiful panoramic views",
+      "Primary suite with walk-in closet and spa-inspired bathroom",
+      "Private terrace or balcony in every rooms of villa",
+      "Smart home ready (lighting, thermostat, security)",
+      "Two-car garage with electric vehicle charging",
+      "Hardwood flooring throughout main living areas",
+      "Energy-efficient windows and HVAC systems",
+      "Amenities",
+      "Pool",
+      "Gym",
+      "Clubhouse",
+      "Jogging Trails",
+      "Playground",
+      "Two-Car Garage",
+      "Fireplace",
+      "Laundry Room",
+      "Filtration System",
+      "Location & Neighborhood",
+      "5 minutes to Hillside Town Center",
+      "10 minutes to Hillside Medical Center",
+      "12 minutes to Valley Elementary School",
+      "15 minutes to downtown and major highways",
+      "20 minutes to regional airport",
+      "10 minutes to grocery, cafes, pharmacy",
+      "Gallery",
+      "Ready toFind Your Place?",
+      "Whether you’re buying, renting, or selling, we make finding your perfect property simple and stress-free. Start your journey today and discover the home that’s right for you.",
+      "Start exploring",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/eGUmym0KT3eIbMi9BSH9WYQ.jpeg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/g4Pan5SWFYbselKOopkDMcN4ts.png",
+        "alt": "Gallery Image 1"
+      },
+      {
+        "url": "https://framerusercontent.com/images/cKXyCZf9PXUWdJeq8ODrsrmbKg.png",
+        "alt": "Gallery Image 2"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Lmfp7BGetgbywBIrFAMr5ackyg.png",
+        "alt": "Gallery Image 3"
+      },
+      {
+        "url": "https://framerusercontent.com/images/93MxsuXKZnFIdk7u8PHysr1zjqQ.png",
+        "alt": "Gallery Image 5"
+      },
+      {
+        "url": "https://framerusercontent.com/images/u2h3mcffGKEm2Z8tEkIg618j5vI.png",
+        "alt": "Gallery Image 4"
+      },
+      {
+        "url": "https://framerusercontent.com/images/UlrPsVARX1J6ZOSvgPOX3dMUv1E.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "project__golden-oak-manor.html": {
+    "text": [
+      "Contact",
+      "Golden Oak Manor",
+      "Perched on the highest ridge with panoramic views of the valley below, Azure Crest Villas offers a rare blend of modern elegance and natural beauty.",
+      "Marbella Coast, Spain",
+      "[ Property Type ]",
+      "Luxury VIlla",
+      "[ Bedrooms ]",
+      "4 beds",
+      "[ Square Footage ]",
+      "4500 sqft",
+      "[ Price ]",
+      "$600.000.000",
+      "[ Bathrooms ]",
+      "3 Baths",
+      "[ Lot Size ]",
+      "1.2 acres",
+      "Property Overview",
+      "Perched on the highest ridge with panoramic views of the valley below, Azure Crest Villas offers a rare blend of modern elegance and natural beauty. Each villa is designed to capture light, space, and the stunning horizon — with floor-to-ceiling windows, open-concept layouts, and premium finishes throughout.",
+      "Whether you're looking for a peaceful family retreat or a primary residence that feels like a vacation every day, Azure Crest delivers. The community is gated, private, and just 15 minutes from downtown shopping, dining, and top-rated schools.",
+      "Key Features",
+      "Gourmet kitchen with quartz countertops and Italian appliances",
+      "Floor-to-ceiling windows with beautiful panoramic views",
+      "Primary suite with walk-in closet and spa-inspired bathroom",
+      "Private terrace or balcony in every rooms of villa",
+      "Smart home ready (lighting, thermostat, security)",
+      "Two-car garage with electric vehicle charging",
+      "Hardwood flooring throughout main living areas",
+      "Energy-efficient windows and HVAC systems",
+      "Amenities",
+      "Pool",
+      "Gym",
+      "Clubhouse",
+      "Jogging Trails",
+      "Playground",
+      "Two-Car Garage",
+      "Fireplace",
+      "Laundry Room",
+      "Filtration System",
+      "Location & Neighborhood",
+      "5 minutes to Hillside Town Center",
+      "10 minutes to Hillside Medical Center",
+      "12 minutes to Valley Elementary School",
+      "15 minutes to downtown and major highways",
+      "20 minutes to regional airport",
+      "10 minutes to grocery, cafes, pharmacy",
+      "Gallery",
+      "Ready toFind Your Place?",
+      "Whether you’re buying, renting, or selling, we make finding your perfect property simple and stress-free. Start your journey today and discover the home that’s right for you.",
+      "Start exploring",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/p84cFapjZkjtkEsumIkpvdRdeU.jpg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/g4Pan5SWFYbselKOopkDMcN4ts.png",
+        "alt": "Gallery Image 1"
+      },
+      {
+        "url": "https://framerusercontent.com/images/cKXyCZf9PXUWdJeq8ODrsrmbKg.png",
+        "alt": "Gallery Image 2"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Lmfp7BGetgbywBIrFAMr5ackyg.png",
+        "alt": "Gallery Image 3"
+      },
+      {
+        "url": "https://framerusercontent.com/images/93MxsuXKZnFIdk7u8PHysr1zjqQ.png",
+        "alt": "Gallery Image 5"
+      },
+      {
+        "url": "https://framerusercontent.com/images/u2h3mcffGKEm2Z8tEkIg618j5vI.png",
+        "alt": "Gallery Image 4"
+      },
+      {
+        "url": "https://framerusercontent.com/images/UlrPsVARX1J6ZOSvgPOX3dMUv1E.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "project__harbor-light-residences.html": {
+    "text": [
+      "Contact",
+      "Harbor Light Residences",
+      "Perched on the highest ridge with panoramic views of the valley below, Azure Crest Villas offers a rare blend of modern elegance and natural beauty.",
+      "Marbella Coast, Spain",
+      "[ Property Type ]",
+      "Luxury VIlla",
+      "[ Bedrooms ]",
+      "4 beds",
+      "[ Square Footage ]",
+      "4500 sqft",
+      "[ Price ]",
+      "$450.000.000",
+      "[ Bathrooms ]",
+      "3 Baths",
+      "[ Lot Size ]",
+      "4500 sqf",
+      "Property Overview",
+      "Perched on the highest ridge with panoramic views of the valley below, Azure Crest Villas offers a rare blend of modern elegance and natural beauty. Each villa is designed to capture light, space, and the stunning horizon — with floor-to-ceiling windows, open-concept layouts, and premium finishes throughout.",
+      "Whether you're looking for a peaceful family retreat or a primary residence that feels like a vacation every day, Azure Crest delivers. The community is gated, private, and just 15 minutes from downtown shopping, dining, and top-rated schools.",
+      "Key Features",
+      "Gourmet kitchen with quartz countertops and Italian appliances",
+      "Floor-to-ceiling windows with beautiful panoramic views",
+      "Primary suite with walk-in closet and spa-inspired bathroom",
+      "Private terrace or balcony in every rooms of villa",
+      "Smart home ready (lighting, thermostat, security)",
+      "Two-car garage with electric vehicle charging",
+      "Hardwood flooring throughout main living areas",
+      "Energy-efficient windows and HVAC systems",
+      "Amenities",
+      "Pool",
+      "Gym",
+      "Clubhouse",
+      "Jogging Trails",
+      "Playground",
+      "Two-Car Garage",
+      "Fireplace",
+      "Laundry Room",
+      "Filtration System",
+      "Location & Neighborhood",
+      "5 minutes to Hillside Town Center",
+      "10 minutes to Hillside Medical Center",
+      "12 minutes to Valley Elementary School",
+      "15 minutes to downtown and major highways",
+      "20 minutes to regional airport",
+      "10 minutes to grocery, cafes, pharmacy",
+      "Gallery",
+      "Ready toFind Your Place?",
+      "Whether you’re buying, renting, or selling, we make finding your perfect property simple and stress-free. Start your journey today and discover the home that’s right for you.",
+      "Start exploring",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/8BXDdTiVdpnvzk9fYR2TAWbhzM.jpg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/g4Pan5SWFYbselKOopkDMcN4ts.png",
+        "alt": "Gallery Image 1"
+      },
+      {
+        "url": "https://framerusercontent.com/images/cKXyCZf9PXUWdJeq8ODrsrmbKg.png",
+        "alt": "Gallery Image 2"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Lmfp7BGetgbywBIrFAMr5ackyg.png",
+        "alt": "Gallery Image 3"
+      },
+      {
+        "url": "https://framerusercontent.com/images/93MxsuXKZnFIdk7u8PHysr1zjqQ.png",
+        "alt": "Gallery Image 5"
+      },
+      {
+        "url": "https://framerusercontent.com/images/u2h3mcffGKEm2Z8tEkIg618j5vI.png",
+        "alt": "Gallery Image 4"
+      },
+      {
+        "url": "https://framerusercontent.com/images/UlrPsVARX1J6ZOSvgPOX3dMUv1E.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "project__harbor-view-residences.html": {
+    "text": [
+      "Contact",
+      "Harbor View Residences",
+      "Perched on the highest ridge with panoramic views of the valley below, Azure Crest Villas offers a rare blend of modern elegance and natural beauty.",
+      "Marbella Coast, Spain",
+      "[ Property Type ]",
+      "Luxury VIlla",
+      "[ Bedrooms ]",
+      "4 beds",
+      "[ Square Footage ]",
+      "4500 sqft",
+      "[ Price ]",
+      "$320.000.000",
+      "[ Bathrooms ]",
+      "3 Baths",
+      "[ Lot Size ]",
+      "1.2 acres",
+      "Property Overview",
+      "Perched on the highest ridge with panoramic views of the valley below, Azure Crest Villas offers a rare blend of modern elegance and natural beauty. Each villa is designed to capture light, space, and the stunning horizon — with floor-to-ceiling windows, open-concept layouts, and premium finishes throughout.",
+      "Whether you're looking for a peaceful family retreat or a primary residence that feels like a vacation every day, Azure Crest delivers. The community is gated, private, and just 15 minutes from downtown shopping, dining, and top-rated schools.",
+      "Key Features",
+      "Gourmet kitchen with quartz countertops and Italian appliances",
+      "Floor-to-ceiling windows with beautiful panoramic views",
+      "Primary suite with walk-in closet and spa-inspired bathroom",
+      "Private terrace or balcony in every rooms of villa",
+      "Smart home ready (lighting, thermostat, security)",
+      "Two-car garage with electric vehicle charging",
+      "Hardwood flooring throughout main living areas",
+      "Energy-efficient windows and HVAC systems",
+      "Amenities",
+      "Pool",
+      "Gym",
+      "Clubhouse",
+      "Jogging Trails",
+      "Playground",
+      "Two-Car Garage",
+      "Fireplace",
+      "Laundry Room",
+      "Filtration System",
+      "Location & Neighborhood",
+      "5 minutes to Hillside Town Center",
+      "10 minutes to Hillside Medical Center",
+      "12 minutes to Valley Elementary School",
+      "15 minutes to downtown and major highways",
+      "20 minutes to regional airport",
+      "10 minutes to grocery, cafes, pharmacy",
+      "Gallery",
+      "Ready toFind Your Place?",
+      "Whether you’re buying, renting, or selling, we make finding your perfect property simple and stress-free. Start your journey today and discover the home that’s right for you.",
+      "Start exploring",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/2KyI3BWdkGPc1wTsj28REMqV0s.jpeg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/g4Pan5SWFYbselKOopkDMcN4ts.png",
+        "alt": "Gallery Image 1"
+      },
+      {
+        "url": "https://framerusercontent.com/images/cKXyCZf9PXUWdJeq8ODrsrmbKg.png",
+        "alt": "Gallery Image 2"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Lmfp7BGetgbywBIrFAMr5ackyg.png",
+        "alt": "Gallery Image 3"
+      },
+      {
+        "url": "https://framerusercontent.com/images/93MxsuXKZnFIdk7u8PHysr1zjqQ.png",
+        "alt": "Gallery Image 5"
+      },
+      {
+        "url": "https://framerusercontent.com/images/u2h3mcffGKEm2Z8tEkIg618j5vI.png",
+        "alt": "Gallery Image 4"
+      },
+      {
+        "url": "https://framerusercontent.com/images/UlrPsVARX1J6ZOSvgPOX3dMUv1E.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "project__maple-grove-estates.html": {
+    "text": [
+      "Contact",
+      "Maple Grove Estates",
+      "Perched on the highest ridge with panoramic views of the valley below, Azure Crest Villas offers a rare blend of modern elegance and natural beauty.",
+      "Marbella Coast, Spain",
+      "[ Property Type ]",
+      "Luxury VIlla",
+      "[ Bedrooms ]",
+      "4 beds",
+      "[ Square Footage ]",
+      "4500 sqft",
+      "[ Price ]",
+      "$350.000.000",
+      "[ Bathrooms ]",
+      "3 Baths",
+      "[ Lot Size ]",
+      "1.2 acres",
+      "Property Overview",
+      "Perched on the highest ridge with panoramic views of the valley below, Azure Crest Villas offers a rare blend of modern elegance and natural beauty. Each villa is designed to capture light, space, and the stunning horizon — with floor-to-ceiling windows, open-concept layouts, and premium finishes throughout.",
+      "Whether you're looking for a peaceful family retreat or a primary residence that feels like a vacation every day, Azure Crest delivers. The community is gated, private, and just 15 minutes from downtown shopping, dining, and top-rated schools.",
+      "Key Features",
+      "Gourmet kitchen with quartz countertops and Italian appliances",
+      "Floor-to-ceiling windows with beautiful panoramic views",
+      "Primary suite with walk-in closet and spa-inspired bathroom",
+      "Private terrace or balcony in every rooms of villa",
+      "Smart home ready (lighting, thermostat, security)",
+      "Two-car garage with electric vehicle charging",
+      "Hardwood flooring throughout main living areas",
+      "Energy-efficient windows and HVAC systems",
+      "Amenities",
+      "Pool",
+      "Gym",
+      "Clubhouse",
+      "Jogging Trails",
+      "Playground",
+      "Two-Car Garage",
+      "Fireplace",
+      "Laundry Room",
+      "Filtration System",
+      "Location & Neighborhood",
+      "5 minutes to Hillside Town Center",
+      "10 minutes to Hillside Medical Center",
+      "12 minutes to Valley Elementary School",
+      "15 minutes to downtown and major highways",
+      "20 minutes to regional airport",
+      "10 minutes to grocery, cafes, pharmacy",
+      "Gallery",
+      "Ready toFind Your Place?",
+      "Whether you’re buying, renting, or selling, we make finding your perfect property simple and stress-free. Start your journey today and discover the home that’s right for you.",
+      "Start exploring",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/o9y806xjrKFABjecBNUwZiUo.jpg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/g4Pan5SWFYbselKOopkDMcN4ts.png",
+        "alt": "Gallery Image 1"
+      },
+      {
+        "url": "https://framerusercontent.com/images/cKXyCZf9PXUWdJeq8ODrsrmbKg.png",
+        "alt": "Gallery Image 2"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Lmfp7BGetgbywBIrFAMr5ackyg.png",
+        "alt": "Gallery Image 3"
+      },
+      {
+        "url": "https://framerusercontent.com/images/93MxsuXKZnFIdk7u8PHysr1zjqQ.png",
+        "alt": "Gallery Image 5"
+      },
+      {
+        "url": "https://framerusercontent.com/images/u2h3mcffGKEm2Z8tEkIg618j5vI.png",
+        "alt": "Gallery Image 4"
+      },
+      {
+        "url": "https://framerusercontent.com/images/UlrPsVARX1J6ZOSvgPOX3dMUv1E.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "project__silver-oak-estates.html": {
+    "text": [
+      "Contact",
+      "Silver Oak Estates",
+      "Perched on the highest ridge with panoramic views of the valley below, Azure Crest Villas offers a rare blend of modern elegance and natural beauty.",
+      "Marbella Coast, Spain",
+      "[ Property Type ]",
+      "Luxury VIlla",
+      "[ Bedrooms ]",
+      "4 beds",
+      "[ Square Footage ]",
+      "4500 sqft",
+      "[ Price ]",
+      "$650.000.000",
+      "[ Bathrooms ]",
+      "3 Baths",
+      "[ Lot Size ]",
+      "1.2 acres",
+      "Property Overview",
+      "Perched on the highest ridge with panoramic views of the valley below, Azure Crest Villas offers a rare blend of modern elegance and natural beauty. Each villa is designed to capture light, space, and the stunning horizon — with floor-to-ceiling windows, open-concept layouts, and premium finishes throughout.",
+      "Whether you're looking for a peaceful family retreat or a primary residence that feels like a vacation every day, Azure Crest delivers. The community is gated, private, and just 15 minutes from downtown shopping, dining, and top-rated schools.",
+      "Key Features",
+      "Gourmet kitchen with quartz countertops and Italian appliances",
+      "Floor-to-ceiling windows with beautiful panoramic views",
+      "Primary suite with walk-in closet and spa-inspired bathroom",
+      "Private terrace or balcony in every rooms of villa",
+      "Smart home ready (lighting, thermostat, security)",
+      "Two-car garage with electric vehicle charging",
+      "Hardwood flooring throughout main living areas",
+      "Energy-efficient windows and HVAC systems",
+      "Amenities",
+      "Pool",
+      "Gym",
+      "Clubhouse",
+      "Jogging Trails",
+      "Playground",
+      "Two-Car Garage",
+      "Fireplace",
+      "Laundry Room",
+      "Filtration System",
+      "Location & Neighborhood",
+      "5 minutes to Hillside Town Center",
+      "10 minutes to Hillside Medical Center",
+      "12 minutes to Valley Elementary School",
+      "15 minutes to downtown and major highways",
+      "20 minutes to regional airport",
+      "10 minutes to grocery, cafes, pharmacy",
+      "Gallery",
+      "Ready toFind Your Place?",
+      "Whether you’re buying, renting, or selling, we make finding your perfect property simple and stress-free. Start your journey today and discover the home that’s right for you.",
+      "Start exploring",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/L0p53pxHxblJfdB6NYIyMcfYbgM.jpg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/g4Pan5SWFYbselKOopkDMcN4ts.png",
+        "alt": "Gallery Image 1"
+      },
+      {
+        "url": "https://framerusercontent.com/images/cKXyCZf9PXUWdJeq8ODrsrmbKg.png",
+        "alt": "Gallery Image 2"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Lmfp7BGetgbywBIrFAMr5ackyg.png",
+        "alt": "Gallery Image 3"
+      },
+      {
+        "url": "https://framerusercontent.com/images/93MxsuXKZnFIdk7u8PHysr1zjqQ.png",
+        "alt": "Gallery Image 5"
+      },
+      {
+        "url": "https://framerusercontent.com/images/u2h3mcffGKEm2Z8tEkIg618j5vI.png",
+        "alt": "Gallery Image 4"
+      },
+      {
+        "url": "https://framerusercontent.com/images/UlrPsVARX1J6ZOSvgPOX3dMUv1E.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "project__sterling-heights.html": {
+    "text": [
+      "Contact",
+      "Sterling Heights",
+      "Perched on the highest ridge with panoramic views of the valley below, Azure Crest Villas offers a rare blend of modern elegance and natural beauty.",
+      "[ Property Type ]",
+      "[ Bedrooms ]",
+      "4 beds",
+      "[ Square Footage ]",
+      "4500 sqft",
+      "[ Price ]",
+      "$500.000.000",
+      "[ Bathrooms ]",
+      "3 Baths",
+      "[ Lot Size ]",
+      "Property Overview",
+      "Perched on the highest ridge with panoramic views of the valley below, Azure Crest Villas offers a rare blend of modern elegance and natural beauty. Each villa is designed to capture light, space, and the stunning horizon — with floor-to-ceiling windows, open-concept layouts, and premium finishes throughout.",
+      "Whether you're looking for a peaceful family retreat or a primary residence that feels like a vacation every day, Azure Crest delivers. The community is gated, private, and just 15 minutes from downtown shopping, dining, and top-rated schools.",
+      "Key Features",
+      "Gourmet kitchen with quartz countertops and Italian appliances",
+      "Floor-to-ceiling windows with beautiful panoramic views",
+      "Primary suite with walk-in closet and spa-inspired bathroom",
+      "Private terrace or balcony in every rooms of villa",
+      "Smart home ready (lighting, thermostat, security)",
+      "Two-car garage with electric vehicle charging",
+      "Hardwood flooring throughout main living areas",
+      "Energy-efficient windows and HVAC systems",
+      "Amenities",
+      "Pool",
+      "Gym",
+      "Clubhouse",
+      "Jogging Trails",
+      "Playground",
+      "Two-Car Garage",
+      "Fireplace",
+      "Laundry Room",
+      "Filtration System",
+      "Location & Neighborhood",
+      "5 minutes to Hillside Town Center",
+      "10 minutes to Hillside Medical Center",
+      "12 minutes to Valley Elementary School",
+      "15 minutes to downtown and major highways",
+      "20 minutes to regional airport",
+      "10 minutes to grocery, cafes, pharmacy",
+      "Gallery",
+      "Ready toFind Your Place?",
+      "Whether you’re buying, renting, or selling, we make finding your perfect property simple and stress-free. Start your journey today and discover the home that’s right for you.",
+      "Start exploring",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/z50jIMalgedfqeVydWb90HyGO0.jpg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/g4Pan5SWFYbselKOopkDMcN4ts.png",
+        "alt": "Gallery Image 1"
+      },
+      {
+        "url": "https://framerusercontent.com/images/cKXyCZf9PXUWdJeq8ODrsrmbKg.png",
+        "alt": "Gallery Image 2"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Lmfp7BGetgbywBIrFAMr5ackyg.png",
+        "alt": "Gallery Image 3"
+      },
+      {
+        "url": "https://framerusercontent.com/images/93MxsuXKZnFIdk7u8PHysr1zjqQ.png",
+        "alt": "Gallery Image 5"
+      },
+      {
+        "url": "https://framerusercontent.com/images/u2h3mcffGKEm2Z8tEkIg618j5vI.png",
+        "alt": "Gallery Image 4"
+      },
+      {
+        "url": "https://framerusercontent.com/images/UlrPsVARX1J6ZOSvgPOX3dMUv1E.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "project__sunset-ridge-villas.html": {
+    "text": [
+      "Contact",
+      "Sunset Ridge Villas",
+      "Perched on the highest ridge with panoramic views of the valley below, Azure Crest Villas offers a rare blend of modern elegance and natural beauty.",
+      "Marbella Coast, Spain",
+      "[ Property Type ]",
+      "Luxury VIlla",
+      "[ Bedrooms ]",
+      "4 beds",
+      "[ Square Footage ]",
+      "4500 sqft",
+      "[ Price ]",
+      "$380.000.000",
+      "[ Bathrooms ]",
+      "3 Baths",
+      "[ Lot Size ]",
+      "Property Overview",
+      "Perched on the highest ridge with panoramic views of the valley below, Azure Crest Villas offers a rare blend of modern elegance and natural beauty. Each villa is designed to capture light, space, and the stunning horizon — with floor-to-ceiling windows, open-concept layouts, and premium finishes throughout.",
+      "Whether you're looking for a peaceful family retreat or a primary residence that feels like a vacation every day, Azure Crest delivers. The community is gated, private, and just 15 minutes from downtown shopping, dining, and top-rated schools.",
+      "Key Features",
+      "Gourmet kitchen with quartz countertops and Italian appliances",
+      "Floor-to-ceiling windows with beautiful panoramic views",
+      "Primary suite with walk-in closet and spa-inspired bathroom",
+      "Private terrace or balcony in every rooms of villa",
+      "Smart home ready (lighting, thermostat, security)",
+      "Two-car garage with electric vehicle charging",
+      "Hardwood flooring throughout main living areas",
+      "Energy-efficient windows and HVAC systems",
+      "Amenities",
+      "Pool",
+      "Gym",
+      "Clubhouse",
+      "Jogging Trails",
+      "Playground",
+      "Two-Car Garage",
+      "Fireplace",
+      "Laundry Room",
+      "Filtration System",
+      "Location & Neighborhood",
+      "5 minutes to Hillside Town Center",
+      "10 minutes to Hillside Medical Center",
+      "12 minutes to Valley Elementary School",
+      "15 minutes to downtown and major highways",
+      "20 minutes to regional airport",
+      "10 minutes to grocery, cafes, pharmacy",
+      "Gallery",
+      "Ready toFind Your Place?",
+      "Whether you’re buying, renting, or selling, we make finding your perfect property simple and stress-free. Start your journey today and discover the home that’s right for you.",
+      "Start exploring",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/JUlIeIOlJwJM5Mz7txmCE72q2o.jpg",
+        "alt": "Thumbnail Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/g4Pan5SWFYbselKOopkDMcN4ts.png",
+        "alt": "Gallery Image 1"
+      },
+      {
+        "url": "https://framerusercontent.com/images/cKXyCZf9PXUWdJeq8ODrsrmbKg.png",
+        "alt": "Gallery Image 2"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Lmfp7BGetgbywBIrFAMr5ackyg.png",
+        "alt": "Gallery Image 3"
+      },
+      {
+        "url": "https://framerusercontent.com/images/93MxsuXKZnFIdk7u8PHysr1zjqQ.png",
+        "alt": "Gallery Image 5"
+      },
+      {
+        "url": "https://framerusercontent.com/images/u2h3mcffGKEm2Z8tEkIg618j5vI.png",
+        "alt": "Gallery Image 4"
+      },
+      {
+        "url": "https://framerusercontent.com/images/UlrPsVARX1J6ZOSvgPOX3dMUv1E.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "service.html": {
+    "text": [
+      "Contact",
+      "Our Service",
+      "Finding the right property is simple. With our platform, you can search thousands of verified listings.",
+      "Buy",
+      "(01)",
+      "Find your dream home with confidence. Explore verified listings, compare neighborhoods, and get expert guidance every step of the way — ensuring you make the right choice for your lifestyle and budget.",
+      "Sell",
+      "(02)",
+      "Sell your property with confidence. Get a free market valuation, professional staging advice, and strategic pricing that attracts serious buyers — ensuring you maximize value and close on your timeline.",
+      "Rent",
+      "(03)",
+      "Find your next rental with confidence. Browse verified listings, compare amenities and locations, and get expert support through applications and leases — ensuring you secure a space that truly fits your life.",
+      "Lease",
+      "(04)",
+      "Lease your property with confidence. Attract quality tenants with professional marketing, thorough screening, and clear agreements — ensuring steady income and peace of mind for the long term.",
+      "Auction",
+      "(05)",
+      "Buy at auction with confidence. Access upcoming auctions, review property details, and get expert bidding strategies before you raise your paddle — ensuring you win the right property at the right price.",
+      "What Our Customersare Saying",
+      "Finding the right property should be simple. With our platform, you can search thousands of verified listings, filter by location, price, and property type with trusted agents or owners.",
+      "Watch Video",
+      "I was terrified to start my home search — the market felt overwhelming, and I had no idea where to even begin. But Shelta One walked me through every single step with patience, kindness, and real expertise. They answered all my questions, no matter how small, and never made me feel rushed or pressured.",
+      "Michael Torres",
+      "Austin, TX",
+      "I was completely lost when I started looking for my first apartment — every listing looked the same, and I didn't know what questions to ask. But Shelta One walked me through every single step with patience, kindness, and real expertise. They explained everything clearly, found options I actually loved, and made sure I never signed anything I didn't fully understand.",
+      "Jessica Chen",
+      "Portland, OR",
+      "I was relocating for work and had to buy a home from across the country — which felt impossible. But Shelta One walked me through every single step with patience, kindness, and real expertise. They did virtual tours, coordinated inspections, and made sure I felt confident before I ever saw the house in person.",
+      "Daniel Okafor",
+      "Chicago, IL",
+      "I thought selling my home would be a nightmare after hearing horror stories from friends. But Shelta One walked me through every single step with patience, kindness, and real expertise. They handled the photography, pricing, and negotiations while I just focused on packing — and we sold above asking price in less than two weeks.",
+      "Emily Rodriguez",
+      "Nashville, TN",
+      "My wife and I had been saving for years, but every time we got close to buying, something scared us off. But Shelta One walked me through every single step with patience, kindness, and real expertise. They broke everything down, answered our endless questions, and helped us finally stop renting and start owning.",
+      "James Carter",
+      "Atlanta, GA",
+      "As a single mom, I was nervous about buying a house on my own without someone to double-check everything. But Shelta One walked me through every single step with patience, kindness, and real expertise. They found me a safe neighborhood within my budget, and my kids finally have a backyard to play in.",
+      "Sarah Mitchell",
+      "Denver, CO",
+      "I'm an investor, so I've worked with a lot of agents — and most just want a quick sale. But Shelta One walked me through every single step with patience, kindness, and real expertise. They found off-market deals, ran the numbers with me, and actually cared about my long-term returns.",
+      "Marcus Williams",
+      "Phoenix, AZ",
+      "I'd been burned by a bad agent before, so I didn't trust anyone with my next home search. But Shelta One walked me through every single step with patience, kindness, and real expertise. They earned my trust back by being honest, responsive, and genuinely caring — and now I recommend them to everyone I know.",
+      "Olivia Brooks",
+      "Seattle, WA",
+      "Every listing looked the same, and I didn't know what questions to ask. But Shelta One walked me through every single step with patience, and real expertise.",
+      "Can’t find your answer?",
+      "If you have questions or need more details, free to reach out.",
+      "FAQs",
+      "How do I list my property on the platform?",
+      "Are the property listings verified?",
+      "Do I need to pay to browse properties?",
+      "Can I contact agents or owners directly?",
+      "What types of properties can I find here?",
+      "Ready toFind Your Place?",
+      "Whether you’re buying, renting, or selling, we make finding your perfect property simple and stress-free. Start your journey today and discover the home that’s right for you.",
+      "Start exploring",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/87UAglHmseqhVB1vAqfzx4Zyvg.jpg",
+        "alt": "Card Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/CHWlrAD4Jod5NesNVjCTk4WcM.png",
+        "alt": "Card Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/GQA9urkciAT4QhCf60cjY4WfEg.png",
+        "alt": "Card Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/GJDyeL9lOtv6NXRFTMPqjF39LU.png",
+        "alt": "Card Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/KdNslJQatbxKaicXN694HYPhvlI.png",
+        "alt": "Client Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/mmZj36p5bLNikJn0HI8tbW86sPc.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/vDzMFB21aILa2P1hKxP1z2aNlsw.jpeg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/WH2Q6A1chs7pPGicPi9yHMC9gMU.png",
+        "alt": "Client Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BqzLXsh2xpLA3qV7A4lGNWMnXn4.png",
+        "alt": "Client Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/gbpIl0WhZprOdl1QhEfrPS9VeNA.jpeg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/efpfepnBqndS8A4yWFGsm0EPqE.png",
+        "alt": "Client Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/1BFTQec5B8Az9Bgdh1FA2YgpLe4.png",
+        "alt": "Client Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/C476dnfJagHoVWAuKddIze19mg.jpeg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/TRJOzkx3HEpApG3lvsANdkI4Geo.png",
+        "alt": "Client Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/C6KWPQcDZ2AHRMPosG8UcH5nU.jpeg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/RK86TXAl3wgTpyQ8dZNBxMy3w.png",
+        "alt": "Client Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/V6NYx3ZkK8EVtzxkStdxWPu9Ks.png",
+        "alt": "Client Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/fykzJ3EzpsIMlnid08DuJz6Zw.png",
+        "alt": "Client Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/tAfLLpr1I0kZFyg5kaI5b55gTQ.png",
+        "alt": "Client Image"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BibfgXDqUgYsf9SGczQCDGhFocs.svg",
+        "alt": "Back Arrow"
+      },
+      {
+        "url": "https://framerusercontent.com/images/mIBNLqOA8bQykQHe9BBRfcE6X4.svg",
+        "alt": "Next Arrow"
+      },
+      {
+        "url": "https://framerusercontent.com/images/UlrPsVARX1J6ZOSvgPOX3dMUv1E.svg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "terms-and-conditions.html": {
+    "text": [
+      "Contact",
+      "Last Updated:",
+      "Jun 17, 2026",
+      "Terms & Conditions",
+      "Welcome to RealEstate. By accessing or using our platform, you agree to comply with and be bound by these Terms & Conditions. Please read them carefully before using our services.",
+      "Acceptance of Terms",
+      "By using our website, you acknowledge that you have read, understood, and agreed to these Terms & Conditions. If you do not agree, please discontinue use of our services.",
+      "Services Provided",
+      "This website provides real estate-related information, including property listings, pricing, and services, for general informational purposes only. Property details may change without notice, and we do not guarantee accuracy or availability. Content on this website does not constitute a legally binding offer unless stated otherwise.",
+      "User Responsibilities",
+      "Users agree to use the website responsibly and provide accurate information when submitting inquiries or using services. Any misuse, unlawful activity, or unauthorized use of website content is strictly prohibited.",
+      "Payments & Fees",
+      "Some services may require payment, with applicable fees clearly displayed before purchase. Payments are processed through secure third-party providers, and we are not responsible for issues arising from those services. Refunds, if applicable, are subject to stated policies.",
+      "Limitation of Liability",
+      "We are not liable for any losses or damages resulting from the use of this website or reliance on its content. Website access may be interrupted or unavailable at times, and all use is at the user’s own risk.",
+      "Intellectual Property",
+      "All website content, including text, images, and branding, is owned by or licensed to us and protected by intellectual property laws. Unauthorized use or reproduction is prohibited.",
+      "Termination of Use",
+      "We reserve the right to suspend or terminate access to the website at our discretion if these terms are violated or misuse is detected.",
+      "Contact Us",
+      "For questions regarding these Terms & Conditions, please contact us through the details provided on the website.",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "utilities__chaneglog.html": {
+    "text": [
+      "Contact",
+      "Changelog",
+      "Our changelog highlights updates, improvements, and new launches, keeping you informed about every portfolio website change.",
+      "June 20, 2026",
+      "Version",
+      "(1.0)",
+      "Real Estate has been released, New features are coming soon.",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "utilities__license.html": {
+    "text": [
+      "Contact",
+      "Last Updated: 19 June 2025",
+      "All Assets License",
+      "All graphical assets in this template are licensed for personal and commercial use. If you would like to use a specific asset, please check the license below.",
+      "Source",
+      "Freepik",
+      "Lummi",
+      "License",
+      "LICENSE",
+      "Assets",
+      "Aeonik",
+      "Aeonik Mono",
+      "Aa",
+      "Aenoik and Aeonik Mono",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "Style Guide",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/iDYr7DVRSbHtwpzOzcOX7OYuUs0.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/UhDQZcuTspCng1ZWUxxM40FCAw.png",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/WIukuWGOk46cDcUFNUc30JswzNI.jpg",
+        "alt": ""
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  },
+  "utilities__styleguide.html": {
+    "text": [
+      "Contact",
+      "Style Guide",
+      "Defining Our Unique Visual Identity",
+      "Visual Design System",
+      "Color",
+      "System",
+      "#F6F6F6",
+      "#F5F5F5",
+      "#E5E5E5",
+      "#D4D4D4",
+      "#A1A1A1",
+      "#737373",
+      "#525252",
+      "#404040",
+      "#262626",
+      "#171717",
+      "#0A0A0A",
+      "#E8E5DF",
+      "#F2EFE9",
+      "#FFFFFF",
+      "#000000",
+      "Typography",
+      "Aeonik - Display",
+      "370 px / 160 px",
+      "Aeonik - H1",
+      "104 px / 112 px",
+      "Aeonik- H2",
+      "96 px / 104 px",
+      "Aeonik- H3",
+      "88 px / 96 px",
+      "Aeonik- H4",
+      "48 px / 88 px",
+      "Aeonik- H5",
+      "40 px / 48 px",
+      "Aeonik- H6",
+      "32 px / 40 px",
+      "Aeonik- Sub Heading",
+      "24 px / 32 px",
+      "Aeonik-Body",
+      "20 px / 28 px",
+      "Aeonik- Body",
+      "18 px / 28 px",
+      "16 px / 24 px",
+      "14 px / 20 px",
+      "Let's Stay Connected",
+      "Subscribe",
+      "shelta@realestate.com",
+      "+1(555)123-456",
+      "Address",
+      "123 Main Street, NY",
+      "Brooklyn, NY 1201, USA",
+      "Follow Us",
+      "Instagram",
+      "Facebook",
+      "Main Pages",
+      "Home",
+      "Properties",
+      "About Us",
+      "Blog",
+      "Service",
+      "Agent",
+      "Contact Us",
+      "CMS Pages",
+      "Property Details",
+      "Agent Details",
+      "Other Pages",
+      "Chaneglog",
+      "License",
+      "404",
+      "© SHELTA. All Rights Recovered",
+      "Terms & Conditions",
+      "Privacy & Policy",
+      "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/gJkwZJSxmdgTU1Y52XNsXgamM0.svg",
+        "alt": "Logo"
+      },
+      {
+        "url": "https://framerusercontent.com/images/h6v1nAhB5fbdQeWPkWN1SlB9o0.svg",
+        "alt": "Email Icon"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7ZQiQ59ghOC5ikaMKiiaZ6zHq0w.png",
+        "alt": "Logo"
+      }
+    ]
+  }
+}

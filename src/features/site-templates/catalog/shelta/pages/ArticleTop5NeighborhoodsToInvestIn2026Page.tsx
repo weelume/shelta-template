@@ -1,0 +1,1 @@
+import type {SiteTemplatePageProps} from '../../../types';import {ArticlePage} from './ArticlePage';export default function Page(props:SiteTemplatePageProps){return <ArticlePage {...props} slug="top-5-neighborhoods-to-invest-in-2026"/>}

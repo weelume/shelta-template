@@ -1,0 +1,85 @@
+{
+  "$schema": "../schemas/verification.schema.json",
+  "format": "git-template-verification",
+  "formatVersion": "0.2.0",
+  "status": "passed",
+  "checkedAt": "2026-10-24T11:32:28.271Z",
+  "sourceCommit": null,
+  "sourceDigest": "f0d53ea8ee91d2592142fc9fdabe1668456e1a22d77b571849837a8c1ee152fa",
+  "environment": {
+    "platform": "linux (local WSL Ubuntu)",
+    "arch": "x64",
+    "node": "v24.16.0",
+    "packageManager": "9.15.4",
+    "cleanDirectory": false,
+    "localGitClone": false
+  },
+  "checks": [
+    {
+      "id": "typecheck",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "typecheck"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-10-24T11:27:17.365Z",
+      "finishedAt": "2026-10-24T11:27:19.374Z"
+    },
+    {
+      "id": "lint",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "lint"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-10-24T11:27:19.374Z",
+      "finishedAt": "2026-10-24T11:27:22.744Z"
+    },
+    {
+      "id": "test",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "test"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-10-24T11:27:22.744Z",
+      "finishedAt": "2026-10-24T11:27:23.180Z"
+    },
+    {
+      "id": "build",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "build"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-10-24T11:27:23.180Z",
+      "finishedAt": "2026-10-24T11:27:45.399Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "web",
+      "status": "passed",
+      "stopped": true,
+      "checkedAt": "2026-10-24T11:32:28.271Z",
+      "reason": "已验证 66 条生产页面路径、182 项原件和网页衍生素材、未知路由 404；PC/iPad/H5/320px 布局、菜单、双语、表单、FAQ、相册及视频播放/离屏暂停已检查。本次独立预览进程已停止。"
+    }
+  ],
+  "limitations": [
+    "原站全部页面三端逐帧动效对照未完成，不声明完整动效一致。",
+    "系统减少动态效果与触屏实机未实测。",
+    "参考图片及视频再分发许可未逐项核实，listed=false。"
+  ]
+}

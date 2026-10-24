@@ -1,0 +1,1 @@
+import type {SiteTemplatePageProps} from '../../../types';import {LegalPage} from './LegalPage';export default function Page(props:SiteTemplatePageProps){return <LegalPage {...props} privacy/>}

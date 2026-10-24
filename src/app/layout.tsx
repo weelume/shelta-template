@@ -1,0 +1,1 @@
+import type {ReactNode} from 'react';import './globals.css';export const metadata={title:'Shelta · 为生活寻找归处',description:'房产顾问、精选住宅与置业洞察'};export default function Layout({children}:{children:ReactNode}){return <html lang="zh-CN"><body>{children}</body></html>}
